@@ -3,14 +3,14 @@
 DisplayStrings = (
 "/fi/fl",
 "KOLONBIYA\012AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron ÇDÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent È/Emacron/Eogonek FG/Gbreve HIÍÎÏ/Idotaccent Ì/Imacron/Iogonek JKL/Lacute/Lcaron/Lslash MN/Nacute/Ncaron ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron S/Sacute/Scaron T/Tcaron UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VWXYÝ/Ydieresis Z/Zacute/Zcaron/Zdotaccent/uni0122/uni0136/uni013B/uni0145/uni0156/uni015E/uni0162/uni0218/uni021A aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron çdð/dcaron/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve hi/dotlessi íîïì/imacron/iogonek jkl/lacute/lcaron/lslash mn/nacute/ncaron ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron s/sacute/scaron ßt/tcaron uúûüù/uhungarumlaut/umacron/uni0123/uni0137/uni013C/uni0146/uni0157/uni015F/uni0163/uni0219/uni021B/uogonek/uring vwxyý/ydieresis z/zacute/zcaron/zdotaccent/fi/fl ªº",
-"/sinA/sinRa/sinKa/sinSsa",
-"/sinLU/sinPU/sinD/sinHa/sinTt/sinKU/sinLla/sinTta/sinMatraAe/sinB/space/sinE/sinKa/space/sinTta/sinLa/sinTU/sinT",
-"/sinMatraU/sinVU/sinN/sinMatraAa.virama/sinE/sinG \012/sinMU/sinMba/sinJa/sinJIi/sinL \012/sinMatraIi/sinKIi/sinBI/sinAnusvara \012\012105",
-"/sinK/sinG/sinT/sinD/sinN/sinNd/sinP/sinB/sinM/sinR/sinL/sinDdI",
-"/sinKRIi/sinM/space/sinBa/sinNI/sinS",
-"/sinDda/sinDdU",
-"/sinTtI",
-"/sinU/sinNna"
+"/a-sinh/ra-sinh/ka-sinh/ssa-sinh",
+"/lU-sinh/pU-sinh/d-sinh/ha-sinh/tt-sinh/kU-sinh/lla-sinh/tta-sinh/aesign-sinh/b-sinh/space/e-sinh/ka-sinh/space/tta-sinh/la-sinh/tU-sinh/t-sinh",
+"/usign-sinh/vU-sinh/n-sinh/aasign_virama-sinh/e-sinh/g-sinh \012/mU-sinh/mba-sinh/ja-sinh/jIi-sinh/l-sinh \012/iisign-sinh/kIi-sinh/bI-sinh/anusvaraya-sinh \012\012105",
+"/k-sinh/g-sinh/t-sinh/d-sinh/n-sinh/nd-sinh/p-sinh/b-sinh/m-sinh/r-sinh/l-sinh/ddI-sinh",
+"/kRIi-sinh/m-sinh/space/ba-sinh/nI-sinh/s-sinh",
+"/dda-sinh/ddU-sinh",
+"/ttI-sinh",
+"/u-sinh/nna-sinh"
 );
 copyright = "Copyright 2021 The Stick No Bills Project Authors (https://github.com/mooniak/stick-no-bills-font)";
 customParameters = (
@@ -32,450 +32,450 @@ value = (
 {
 name = glyphOrder;
 value = (
-sinA,
-sinAa,
-sinAe,
-sinAae,
-sinI,
-sinIi,
-sinU,
-sinUu,
-sinRVocalic,
-sinRrVocalic,
-sinLVocalic,
-sinLlVocalic,
-sinE,
-sinEe,
-sinAi,
-sinO,
-sinOo,
-sinAu,
-sinKa,
-sinKha,
-sinGa,
-sinGha,
-sinNga,
-sinNnga,
-sinCa,
-sinCha,
-sinJa,
-sinJha,
-sinNya,
-sinJnya,
-sinNyja,
-sinTta,
-sinTtha,
-sinDda,
-sinDdha,
-sinNna,
-sinNndda,
-sinTa,
-sinTha,
-sinDa,
-sinDha,
-sinNa,
-sinNda,
-sinPa,
-sinPha,
-sinBa,
-sinBha,
-sinMa,
-sinMba,
-sinYa,
-sinRa,
-sinLa,
-sinVa,
-sinSha,
-sinSsa,
-sinSa,
-sinHa,
-sinLla,
-sinFa,
+"a-sinh",
+"aa-sinh",
+"ae-sinh",
+"aae-sinh",
+"i-sinh",
+"ii-sinh",
+"u-sinh",
+"uu-sinh",
+"vocalicr-sinh",
+"vocalicrr-sinh",
+"vocalicl-sinh",
+"vocalicll-sinh",
+"e-sinh",
+"ee-sinh",
+"ai-sinh",
+"o-sinh",
+"oo-sinh",
+"au-sinh",
+"ka-sinh",
+"kha-sinh",
+"ga-sinh",
+"gha-sinh",
+"nga-sinh",
+"nnga-sinh",
+"ca-sinh",
+"cha-sinh",
+"ja-sinh",
+"jha-sinh",
+"nya-sinh",
+"jnya-sinh",
+"nyja-sinh",
+"tta-sinh",
+"ttha-sinh",
+"dda-sinh",
+"ddha-sinh",
+"nna-sinh",
+"nndda-sinh",
+"ta-sinh",
+"tha-sinh",
+"da-sinh",
+"dha-sinh",
+"na-sinh",
+"nda-sinh",
+"pa-sinh",
+"pha-sinh",
+"ba-sinh",
+"bha-sinh",
+"ma-sinh",
+"mba-sinh",
+"ya-sinh",
+"ra-sinh",
+"la-sinh",
+"va-sinh",
+"sha-sinh",
+"ssa-sinh",
+"sa-sinh",
+"ha-sinh",
+"lla-sinh",
+"fa-sinh",
 sinfPa,
-sinKSsa,
-sinKVa,
-sinTVa,
-sinTTha,
-sinNDa,
-sinNDha,
-sinNVa,
-sinNTha,
-sinGDha,
-sinDVa,
-sinDDha,
-sinTtTtha,
+"kSsa-sinh",
+"kVa-sinh",
+"tVa-sinh",
+"tTha-sinh",
+"nDa-sinh",
+"nDha-sinh",
+"nVa-sinh",
+"nTha-sinh",
+"gDha-sinh",
+"dVa-sinh",
+"dDha-sinh",
+"ttTtha-sinh",
 sinNyCa,
 sinNyCha,
 sinCCa,
 sinBBa,
-sinMatraAa,
-sinMatraAae,
-sinMatraAe,
-sinMatraAi,
-sinMatraAu,
-sinMatraE,
-sinMatraEe,
-sinMatraI,
-sinMatraIi,
-sinMatraLl,
-sinMatraLs,
-sinMatraO,
-sinMatraOo,
-sinMatraR,
-sinMatraRr,
-sinMatraU,
-sinMatraUu,
-sinMatraU.sub,
-sinMatraUu.sub,
-sinVirama,
-sinRakar,
-sinReph,
-sinYansaya,
-sinAnusvara,
+"aasign-sinh",
+"aaesign-sinh",
+"aesign-sinh",
+"aisign-sinh",
+"ausign-sinh",
+"esign-sinh",
+"eesign-sinh",
+"isign-sinh",
+"iisign-sinh",
+"vocaliclsign-sinh",
+"vocalicllsign-sinh",
+"osign-sinh",
+"oosign-sinh",
+"vocalicrsign-sinh",
+"vocalicrrsign-sinh",
+"usign-sinh",
+"uusign-sinh",
+"usign-sinh.sub",
+"uusign-sinh.sub",
+"virama-sinh",
+"rasign-sinh",
+"repha-sinh",
+"yasign-sinh",
+"anusvaraya-sinh",
 sinCandrabindu,
-sinVisarga,
-sinMatraAa,
-sinMatraAa.virama,
+"visargaya-sinh",
+"aasign-sinh",
+"aasign_virama-sinh",
 sinTouch,
-sinK,
-sinKh,
-sinG,
-sinGh,
-sinNg,
-sinNng,
-sinC,
-sinCh,
-sinJ,
-sinJh,
-sinNy,
-sinJny,
-sinNyj,
-sinTt,
-sinTth,
-sinDd,
-sinDdh,
-sinNn,
-sinNndd,
-sinT,
-sinTh,
-sinD,
-sinDh,
-sinN,
-sinNd,
-sinP,
-sinPh,
-sinB,
-sinBh,
-sinM,
-sinMb,
-sinY,
-sinR,
-sinL,
-sinV,
-sinSh,
-sinSs,
-sinS,
-sinH,
-sinLl,
-sinF,
+"k-sinh",
+"kh-sinh",
+"g-sinh",
+"gh-sinh",
+"ng-sinh",
+"nng-sinh",
+"c-sinh",
+"ch-sinh",
+"j-sinh",
+"jh-sinh",
+"ny-sinh",
+"jny-sinh",
+"nyj-sinh",
+"tt-sinh",
+"tth-sinh",
+"dd-sinh",
+"ddh-sinh",
+"nn-sinh",
+"nndd-sinh",
+"t-sinh",
+"th-sinh",
+"d-sinh",
+"dh-sinh",
+"n-sinh",
+"nd-sinh",
+"p-sinh",
+"ph-sinh",
+"b-sinh",
+"bh-sinh",
+"m-sinh",
+"mb-sinh",
+"y-sinh",
+"r-sinh",
+"l-sinh",
+"v-sinh",
+"sh-sinh",
+"ss-sinh",
+"s-sinh",
+"h-sinh",
+"ll-sinh",
+"f-sinh",
 sinfP,
-sinKSs,
-sinKV,
-sinTV,
-sinTTh,
-sinND,
-sinNDh,
-sinNV,
-sinNTh,
+"kSs-sinh",
+"kV-sinh",
+"tV-sinh",
+"tTh-sinh",
+"nD-sinh",
+"nDh-sinh",
+"nV-sinh",
+"nTh-sinh",
 sinGDh,
-sinDV,
-sinDDh,
-sinTtTth,
+"dV-sinh",
+"dDh-sinh",
+"ttTth-sinh",
 sinNyC,
 sinNyCh,
 sinCC,
 sinBB,
-sinKI,
-sinKhI,
-sinGI,
-sinGhI,
-sinNgI,
-sinNngI,
-sinCI,
-sinChI,
-sinJI,
-sinJhI,
-sinNyI,
-sinJnyI,
-sinNyjI,
-sinTtI,
-sinTthI,
-sinDdI,
-sinDdhI,
-sinNnI,
-sinNnddI,
-sinTI,
-sinThI,
-sinDI,
-sinDhI,
-sinNI,
-sinNdI,
-sinPI,
-sinPhI,
-sinBI,
-sinBhI,
-sinMI,
-sinMbI,
-sinYI,
-sinRI,
-sinLI,
-sinVI,
-sinShI,
-sinSsI,
-sinSI,
-sinHI,
-sinLlI,
-sinFI,
+"kI-sinh",
+"khI-sinh",
+"gI-sinh",
+"ghI-sinh",
+"ngI-sinh",
+"nngI-sinh",
+"cI-sinh",
+"chI-sinh",
+"jI-sinh",
+"jhI-sinh",
+"nyI-sinh",
+"jnyI-sinh",
+"nyjI-sinh",
+"ttI-sinh",
+"tthI-sinh",
+"ddI-sinh",
+"ddhI-sinh",
+"nnI-sinh",
+"nnddI-sinh",
+"tI-sinh",
+"thI-sinh",
+"dI-sinh",
+"dhI-sinh",
+"nI-sinh",
+"ndI-sinh",
+"pI-sinh",
+"phI-sinh",
+"bI-sinh",
+"bhI-sinh",
+"mI-sinh",
+"mbI-sinh",
+"yI-sinh",
+"rI-sinh",
+"lI-sinh",
+"vI-sinh",
+"shI-sinh",
+"ssI-sinh",
+"sI-sinh",
+"hI-sinh",
+"llI-sinh",
+"fI-sinh",
 sinfPI,
-sinKSsI,
-sinKVI,
-sinTVI,
-sinTThI,
-sinNDI,
-sinNDhI,
-sinNVI,
-sinNThI,
+"kSsI-sinh",
+"kVI-sinh",
+"tVI-sinh",
+"tThI-sinh",
+"nDI-sinh",
+"nDhI-sinh",
+"nVI-sinh",
+"nThI-sinh",
 sinGDhI,
-sinDVI,
-sinDDhI,
-sinTtTthI,
+"dVI-sinh",
+"dDhI-sinh",
+"ttTthI-sinh",
 sinNyCI,
 sinNyChI,
 sinCCI,
 sinBBI,
-sinKIi,
-sinKhIi,
-sinGIi,
-sinGhIi,
-sinNgIi,
-sinNngIi,
-sinCIi,
-sinChIi,
-sinJIi,
-sinJhIi,
-sinNyIi,
-sinJnyIi,
-sinNyjIi,
-sinTtIi,
-sinTthIi,
-sinDdIi,
-sinDdhIi,
-sinNnIi,
-sinNnddIi,
-sinTIi,
-sinThIi,
-sinDIi,
-sinDhIi,
-sinNIi,
-sinNdIi,
-sinPIi,
-sinPhIi,
-sinBIi,
-sinBhIi,
-sinMIi,
-sinMbIi,
-sinYIi,
-sinRIi,
-sinLIi,
-sinVIi,
-sinShIi,
-sinSsIi,
-sinSIi,
-sinHIi,
-sinLlIi,
-sinFIi,
+"kIi-sinh",
+"khIi-sinh",
+"gIi-sinh",
+"ghIi-sinh",
+"ngIi-sinh",
+"nngIi-sinh",
+"cIi-sinh",
+"chIi-sinh",
+"jIi-sinh",
+"jhIi-sinh",
+"nyIi-sinh",
+"jnyIi-sinh",
+"nyjIi-sinh",
+"ttIi-sinh",
+"tthIi-sinh",
+"ddIi-sinh",
+"ddhIi-sinh",
+"nnIi-sinh",
+"nnddIi-sinh",
+"tIi-sinh",
+"thIi-sinh",
+"dIi-sinh",
+"dhIi-sinh",
+"nIi-sinh",
+"ndIi-sinh",
+"pIi-sinh",
+"phIi-sinh",
+"bIi-sinh",
+"bhIi-sinh",
+"mIi-sinh",
+"mbIi-sinh",
+"yIi-sinh",
+"rIi-sinh",
+"lIi-sinh",
+"vIi-sinh",
+"shIi-sinh",
+"ssIi-sinh",
+"sIi-sinh",
+"hIi-sinh",
+"llIi-sinh",
+"fIi-sinh",
 sinfPIi,
-sinKSsIi,
-sinKVIi,
-sinTVIi,
-sinTThIi,
-sinNDIi,
-sinNDhIi,
-sinNVIi,
-sinNThIi,
+"kSsIi-sinh",
+"kVIi-sinh",
+"tVIi-sinh",
+"tThIi-sinh",
+"nDIi-sinh",
+"nDhIi-sinh",
+"nVIi-sinh",
+"nThIi-sinh",
 sinGDhIi,
-sinDVIi,
-sinDDhIi,
-sinTtTthIi,
+"dVIi-sinh",
+"dDhIi-sinh",
+"ttTthIi-sinh",
 sinNyCIi,
 sinNyChIi,
 sinCCIi,
 sinBBIi,
-sinKU,
-sinKhU,
-sinGU,
-sinGhU,
+"kU-sinh",
+"khU-sinh",
+"gU-sinh",
+"ghU-sinh",
 sinNgU,
-sinNngU,
-sinCU,
-sinChU,
-sinJU,
-sinJhU,
-sinNyU,
-sinJnyU,
-sinNyjU,
-sinTtU,
-sinTthU,
-sinDdU,
-sinDdhU,
-sinNnU,
-sinNnddU,
-sinTU,
-sinThU,
-sinDU,
-sinDhU,
-sinNU,
-sinNdU,
-sinPU,
-sinPhU,
-sinBU,
-sinBhU,
-sinMU,
-sinMbU,
-sinYU,
-sinRU,
-sinLU,
-sinVU,
-sinShU,
-sinSsU,
-sinSU,
-sinHU,
-sinLlU,
-sinFU,
+"nngU-sinh",
+"cU-sinh",
+"chU-sinh",
+"jU-sinh",
+"jhU-sinh",
+"nyU-sinh",
+"jnyU-sinh",
+"nyjU-sinh",
+"ttU-sinh",
+"tthU-sinh",
+"ddU-sinh",
+"ddhU-sinh",
+"nnU-sinh",
+"nnddU-sinh",
+"tU-sinh",
+"thU-sinh",
+"dU-sinh",
+"dhU-sinh",
+"nU-sinh",
+"ndU-sinh",
+"pU-sinh",
+"phU-sinh",
+"bU-sinh",
+"bhU-sinh",
+"mU-sinh",
+"mbU-sinh",
+"yU-sinh",
+"rU-sinh",
+"lU-sinh",
+"vU-sinh",
+"shU-sinh",
+"ssU-sinh",
+"sU-sinh",
+"hU-sinh",
+"llU-sinh",
+"fU-sinh",
 sinfPU,
-sinKSsU,
-sinKVU,
-sinTVU,
-sinTThU,
-sinNDU,
-sinNDhU,
-sinNVU,
-sinNThU,
+"kSsU-sinh",
+"kVU-sinh",
+"tVU-sinh",
+"tThU-sinh",
+"nDU-sinh",
+"nDhU-sinh",
+"nVU-sinh",
+"nThU-sinh",
 sinGDhU,
-sinDVU,
-sinDDhU,
-sinTtTthU,
+"dVU-sinh",
+"dDhU-sinh",
+"ttTthU-sinh",
 sinNyCU,
 sinNyChU,
 sinCCU,
 sinBBU,
-sinKUu,
-sinKhUu,
-sinGUu,
-sinGhUu,
+"kUu-sinh",
+"khUu-sinh",
+"gUu-sinh",
+"ghUu-sinh",
 sinNgUu,
-sinNngUu,
-sinCUu,
-sinChUu,
-sinJUu,
-sinJhUu,
-sinNyUu,
-sinJnyUu,
-sinNyjUu,
-sinTtUu,
-sinTthUu,
-sinDdUu,
-sinDdhUu,
-sinNnUu,
-sinNnddUu,
-sinTUu,
-sinThUu,
-sinDUu,
-sinDhUu,
-sinNUu,
-sinNdUu,
-sinPUu,
-sinPhUu,
-sinBUu,
-sinBhUu,
-sinMUu,
-sinMbUu,
-sinYUu,
-sinRUu,
-sinLUu,
-sinVUu,
-sinShUu,
-sinSsUu,
-sinSUu,
-sinHUu,
-sinLlUu,
-sinFUu,
+"nngUu-sinh",
+"cUu-sinh",
+"chUu-sinh",
+"jUu-sinh",
+"jhUu-sinh",
+"nyUu-sinh",
+"jnyUu-sinh",
+"nyjUu-sinh",
+"ttUu-sinh",
+"tthUu-sinh",
+"ddUu-sinh",
+"ddhUu-sinh",
+"nnUu-sinh",
+"nnddUu-sinh",
+"tUu-sinh",
+"thUu-sinh",
+"dUu-sinh",
+"dhUu-sinh",
+"nUu-sinh",
+"ndUu-sinh",
+"pUu-sinh",
+"phUu-sinh",
+"bUu-sinh",
+"bhUu-sinh",
+"mUu-sinh",
+"mbUu-sinh",
+"yUu-sinh",
+"rUu-sinh",
+"lUu-sinh",
+"vUu-sinh",
+"shUu-sinh",
+"ssUu-sinh",
+"sUu-sinh",
+"hUu-sinh",
+"llUu-sinh",
+"fUu-sinh",
 sinfPUu,
-sinKSsUu,
-sinKVUu,
-sinTVUu,
-sinTThUu,
-sinNDUu,
-sinNDhUu,
-sinNVUu,
-sinNThUu,
+"kSsUu-sinh",
+"kVUu-sinh",
+"tVUu-sinh",
+"tThUu-sinh",
+"nDUu-sinh",
+"nDhUu-sinh",
+"nVUu-sinh",
+"nThUu-sinh",
 sinGDhUu,
-sinDVUu,
-sinDDhUu,
-sinTtTthUu,
+"dVUu-sinh",
+"dDhUu-sinh",
+"ttTthUu-sinh",
 sinNyCUu,
 sinNyChUu,
 sinCCUu,
 sinBBUu,
-sinRAe,
-sinRAae,
-sinKRa,
-sinKhRa,
-sinGRa,
-sinGhRa,
+"rAe-sinh",
+"rAae-sinh",
+"kRa-sinh",
+"khRa-sinh",
+"gRa-sinh",
+"ghRa-sinh",
 sinNgRa,
 sinNngRa,
-sinCRa,
+"cRa-sinh",
 sinChRa,
-sinJRa,
-sinJhRa,
-sinNyRa,
-sinJnyRa,
-sinNyjRa,
-sinTtRa,
+"jRa-sinh",
+"jhRa-sinh",
+"nyRa-sinh",
+"jnyRa-sinh",
+"nyjRa-sinh",
+"ttRa-sinh",
 sinTthRa,
-sinDdRa,
+"ddRa-sinh",
 sinDdhRa,
 sinNnRa,
 sinNnddRa,
-sinTRa,
+"tRa-sinh",
 sinThRa,
-sinDRa,
-sinDhRa,
+"dRa-sinh",
+"dhRa-sinh",
 sinNRa,
-sinNdRa,
-sinPRa,
+"ndRa-sinh",
+"pRa-sinh",
 sinPhRa,
-sinBRa,
-sinBhRa,
-sinMRa,
+"bRa-sinh",
+"bhRa-sinh",
+"mRa-sinh",
 sinMbRa,
 sinYRa,
 sinRRa,
 sinLRa,
-sinVRa,
-sinShRa,
-sinSsRa,
-sinSRa,
-sinHRa,
+"vRa-sinh",
+"shRa-sinh",
+"ssRa-sinh",
+"sRa-sinh",
+"hRa-sinh",
 sinLlRa,
-sinFRa,
+"fRa-sinh",
 sinfPRa,
 sinKSsRa,
 sinKVRa,
 sinTVRa,
 sinTThRa,
-sinNDRa,
+"nDRa-sinh",
 sinNDhRa,
 sinNVRa,
 sinNThRa,
@@ -487,47 +487,47 @@ sinNyCRa,
 sinNyChRa,
 sinCCRa,
 sinBBRa,
-sinKR,
-sinKhR,
-sinGR,
-sinGhR,
+"kR-sinh",
+"khR-sinh",
+"gR-sinh",
+"ghR-sinh",
 sinNgR,
 sinNngR,
-sinCR,
+"cR-sinh",
 sinChR,
-sinJR,
-sinJhR,
-sinNyR,
-sinJnyR,
-sinNyjR,
-sinTtR,
+"jR-sinh",
+"jhR-sinh",
+"nyR-sinh",
+"jnyR-sinh",
+"nyjR-sinh",
+"ttR-sinh",
 sinTthR,
-sinDdR,
+"ddR-sinh",
 sinDdhR,
 sinNnR,
 sinNnddR,
-sinTR,
+"tR-sinh",
 sinThR,
-sinDR,
-sinDhR,
+"dR-sinh",
+"dhR-sinh",
 sinNR,
 sinNdR,
-sinPR,
+"pR-sinh",
 sinPhR,
-sinBR,
-sinBhR,
-sinMR,
+"bR-sinh",
+"bhR-sinh",
+"mR-sinh",
 sinMbR,
 sinYR,
 sinRR,
 sinLR,
-sinVR,
-sinShR,
-sinSsR,
-sinSR,
-sinHR,
+"vR-sinh",
+"shR-sinh",
+"ssR-sinh",
+"sR-sinh",
+"hR-sinh",
 sinLlR,
-sinFR,
+"fR-sinh",
 sinfPR,
 sinKSsR,
 sinKVR,
@@ -545,53 +545,53 @@ sinNyCR,
 sinNyChR,
 sinCCR,
 sinBBR,
-sinKRI,
-sinKhRI,
-sinGRI,
-sinGhRI,
+"kRI-sinh",
+"khRI-sinh",
+"gRI-sinh",
+"ghRI-sinh",
 sinNgRI,
 sinNngRI,
-sinCRI,
+"cRI-sinh",
 sinChRI,
-sinJRI,
-sinJhRI,
-sinNyRI,
-sinJnyRI,
+"jRI-sinh",
+"jhRI-sinh",
+"nyRI-sinh",
+"jnyRI-sinh",
 sinNyjRI,
-sinTtRI,
+"ttRI-sinh",
 sinTthRI,
-sinDdRI,
+"ddRI-sinh",
 sinDdhRI,
 sinNnRI,
 sinNnddRI,
-sinTRI,
+"tRI-sinh",
 sinThRI,
-sinDRI,
-sinDhRI,
+"dRI-sinh",
+"dhRI-sinh",
 sinNRI,
 sinNdRI,
-sinPRI,
+"pRI-sinh",
 sinPhRI,
-sinBRI,
-sinBhRI,
-sinMRI,
+"bRI-sinh",
+"bhRI-sinh",
+"mRI-sinh",
 sinMbRI,
 sinYRI,
 sinRRI,
 sinLRI,
-sinVRI,
-sinShRI,
-sinSsRI,
-sinSRI,
-sinHRI,
+"vRI-sinh",
+"shRI-sinh",
+"ssRI-sinh",
+"sRI-sinh",
+"hRI-sinh",
 sinLlRI,
-sinFRI,
+"fRI-sinh",
 sinfPRI,
 sinKSsRI,
 sinKVRI,
 sinTVRI,
 sinTThRI,
-sinNDRI,
+"nDRI-sinh",
 sinNDhRI,
 sinNVRI,
 sinNThRI,
@@ -603,53 +603,53 @@ sinNyCRI,
 sinNyChRI,
 sinCCRI,
 sinBBRI,
-sinKRIi,
-sinKhRIi,
-sinGRIi,
-sinGhRIi,
+"kRIi-sinh",
+"khRIi-sinh",
+"gRIi-sinh",
+"ghRIi-sinh",
 sinNgRIi,
 sinNngRIi,
-sinCRIi,
+"cRIi-sinh",
 sinChRIi,
-sinJRIi,
-sinJhRIi,
-sinNyRIi,
-sinJnyRIi,
+"jRIi-sinh",
+"jhRIi-sinh",
+"nyRIi-sinh",
+"jnyRIi-sinh",
 sinNyjRIi,
-sinTtRIi,
+"ttRIi-sinh",
 sinTthRIi,
-sinDdRIi,
+"ddRIi-sinh",
 sinDdhRIi,
 sinNnRIi,
 sinNnddRIi,
-sinTRIi,
+"tRIi-sinh",
 sinThRIi,
-sinDRIi,
-sinDhRIi,
+"dRIi-sinh",
+"dhRIi-sinh",
 sinNRIi,
 sinNdRIi,
-sinPRIi,
+"pRIi-sinh",
 sinPhRIi,
-sinBRIi,
-sinBhRIi,
-sinMRIi,
+"bRIi-sinh",
+"bhRIi-sinh",
+"mRIi-sinh",
 sinMbRIi,
 sinYRIi,
 sinRRIi,
 sinLRIi,
-sinVRIi,
-sinShRIi,
-sinSsRIi,
-sinSRIi,
-sinHRIi,
+"vRIi-sinh",
+"shRIi-sinh",
+"ssRIi-sinh",
+"sRIi-sinh",
+"hRIi-sinh",
 sinLlRIi,
-sinFRIi,
+"fRIi-sinh",
 sinfPRIi,
 sinKSsRIi,
 sinKVRIi,
 sinTVRIi,
 sinTThRIi,
-sinNDRIi,
+"nDRIi-sinh",
 sinNDhRIi,
 sinNVRIi,
 sinNThRIi,
@@ -661,47 +661,47 @@ sinNyCRIi,
 sinNyChRIi,
 sinCCRIi,
 sinBBRIi,
-sinKa.reph,
-sinKha.reph,
-sinGa.reph,
-sinGha.reph,
+"ka_repha-sinh",
+"kha_repha-sinh",
+"ga_repha-sinh",
+"gha_repha-sinh",
 sinNga.reph,
 sinNnga.reph,
-sinCa.reph,
+"ca_repha-sinh",
 sinCha.reph,
-sinJa.reph,
-sinJha.reph,
-sinNya.reph,
-sinJnya.reph,
+"ja_repha-sinh",
+"jha_repha-sinh",
+"nya_repha-sinh",
+"jnya_repha-sinh",
 sinNyja.reph,
-sinTta.reph,
+"tta_repha-sinh",
 sinTtha.reph,
-sinDda.reph,
+"dda_repha-sinh",
 sinDdha.reph,
-sinNna.reph,
+"nna_repha-sinh",
 sinNndda.reph,
-sinTa.reph,
-sinTha.reph,
-sinDa.reph,
-sinDha.reph,
-sinNa.reph,
+"ta_repha-sinh",
+"tha_repha-sinh",
+"da_repha-sinh",
+"dha_repha-sinh",
+"na_repha-sinh",
 sinNda.reph,
-sinPa.reph,
-sinPha.reph,
-sinBa.reph,
-sinBha.reph,
-sinMa.reph,
+"pa_repha-sinh",
+"pha_repha-sinh",
+"ba_repha-sinh",
+"bha_repha-sinh",
+"ma_repha-sinh",
 sinMba.reph,
-sinYa.reph,
+"ya_repha-sinh",
 sinRa.reph,
 sinLa.reph,
-sinVa.reph,
-sinSha.reph,
-sinSsa.reph,
-sinSa.reph,
-sinHa.reph,
+"va_repha-sinh",
+"sha_repha-sinh",
+"ssa_repha-sinh",
+"sa_repha-sinh",
+"ha_repha-sinh",
 sinLla.reph,
-sinFa.reph,
+"fa_repha-sinh",
 sinfPa.reph,
 sinKSsa.reph,
 sinKVa.reph,
@@ -720,16 +720,16 @@ sinNyCa.reph,
 sinNyCha.reph,
 sinCCa.reph,
 sinBBa.reph,
-sinYansaya.MatraI,
-sinYansaya.MatraIi,
-sinYansaya.reph,
-sinYansaya,
-sinYansaya_Reph_MatraAa,
-sinYansa_MatraUu,
-sinYansa_MatraU,
-sinYansaya_Reph_MatraU,
-sinYansaya_Reph_MatraUu,
-sinYansaya.virama,
+"yasign_isign-sinh",
+"yasign_iisign-sinh",
+"yasign_repha-sinh",
+"yasign-sinh",
+"yasign_repha_aasign-sinh",
+"yasign_uusign-sinh",
+"yasign_usign-sinh",
+"yasign_repha_usign-sinh",
+"yasign_repha_uusign-sinh",
+"yasign-sinh.alt",
 sinDAe.ss01,
 sinDAae.ss01,
 sinDAa.ss01,
@@ -798,7 +798,7 @@ code = "languagesystem DFLT dflt;\012languagesystem sinh dflt;\012\012\012";
 name = Languagesystems;
 },
 {
-code = "#---- --AKHN ------------\012\012lookup sinakhands {\012  sub sinKa sinVirama zerowidthjoiner sinSsa by sinKSsa;\012  sub sinKa sinVirama zerowidthjoiner sinVa by sinKVa;\012  sub sinTa sinVirama zerowidthjoiner sinVa by sinTVa;\012  sub sinTa sinVirama zerowidthjoiner sinTha by sinTTha;\012  sub sinNa sinVirama zerowidthjoiner sinDa by sinNDa;\012  sub sinNa sinVirama zerowidthjoiner sinVa by sinNVa;\012  sub sinNa sinVirama zerowidthjoiner sinDha by sinNDha;\012  sub sinNa sinVirama zerowidthjoiner sinTha by sinNTha;\012  sub sinDa sinVirama zerowidthjoiner sinVa by sinDVa;\012  sub sinDa sinVirama zerowidthjoiner sinDha by sinDDha;\012  sub sinTta sinVirama zerowidthjoiner sinTtha by sinTtTtha;\012} sinakhands;\012\012#---- REPH ----\012\012lookup sinreph {\012  sub sinRa sinVirama zerowidthjoiner by sinReph;\012} sinreph;\012\012#---- HALN ----\012\012lookup sin_virama {\012  sub sinMatraAa sinVirama by sinMatraAa;\012  sub sinKa sinVirama by sinK;\012  sub sinKha sinVirama by sinKh;\012  sub sinGa sinVirama by sinG;\012  sub sinGha sinVirama by sinGh;\012  sub sinNga sinVirama by sinNg;\012  sub sinNnga sinVirama by sinNng;\012  sub sinCa sinVirama by sinC;\012  sub sinCha sinVirama by sinCh;\012  sub sinJa sinVirama by sinJ;\012  sub sinJha sinVirama by sinJh;\012  sub sinNya sinVirama by sinNy;\012  sub sinJnya sinVirama by sinJny;\012  sub sinNyja sinVirama by sinNyj;\012  sub sinTta sinVirama by sinTt;\012  sub sinTtha sinVirama by sinTth;\012  sub sinDda sinVirama by sinDd;\012  sub sinDdha sinVirama by sinDdh;\012  sub sinNna sinVirama by sinNn;\012  sub sinNndda sinVirama by sinNndd;\012  sub sinTa sinVirama by sinT;\012  sub sinTha sinVirama by sinTh;\012  sub sinDa sinVirama by sinD;\012  sub sinDha sinVirama by sinDh;\012  sub sinNa sinVirama by sinN;\012  sub sinNda sinVirama by sinNd;\012  sub sinPa sinVirama by sinP;\012  sub sinPha sinVirama by sinPh;\012  sub sinBa sinVirama by sinB;\012  sub sinBha sinVirama by sinBh;\012  sub sinMa sinVirama by sinM;\012  sub sinMba sinVirama by sinMb;\012  sub sinYa sinVirama by sinY;\012  sub sinRa sinVirama by sinR;\012  sub sinLa sinVirama by sinL;\012  sub sinVa sinVirama by sinV;\012  sub sinSha sinVirama by sinSh;\012  sub sinSsa sinVirama by sinSs;\012  sub sinSa sinVirama by sinS;\012  sub sinHa sinVirama by sinH;\012  sub sinLla sinVirama by sinLl;\012  sub sinFa sinVirama by sinF;\012\012  sub sinDVa sinVirama by sinDV;\012  sub sinKVa sinVirama by sinKV;\012  sub sinKSsa sinVirama by sinKSs;\012  sub sinNVa sinVirama by sinNV;\012  sub sinNDa  sinVirama by sinND;\012  sub sinTtTtha sinVirama by sinTtTth;\012  sub sinDDha sinVirama by sinDDh;\012  sub sinTVa sinVirama by sinTV;\012  sub sinTTha sinVirama by sinTTh;\012  sub sinNDha sinVirama by sinNDh;\012  sub sinNTha sinVirama by sinNTh;\012  sub sinYansaya sinVirama by sinYansaya;\012\012  sub sinKRa sinVirama by sinKR;\012  sub sinKhRa sinVirama by sinKhR;\012  sub sinGRa sinVirama by sinGR;\012  sub sinGhRa sinVirama by sinGhR;\012  sub sinCRa sinVirama by sinCR;\012  sub sinJRa sinVirama by sinJR;\012  sub sinJhRa sinVirama by sinJhR;\012  sub sinNyRa sinVirama by sinNyR;\012  sub sinTtRa sinVirama by sinTtR;\012  sub sinJnyRa sinVirama by sinJnyR;\012  sub sinNyjRa sinVirama by sinNyjR;\012  sub sinDdRa sinVirama by sinDdR;\012  sub sinTRa sinVirama by sinTR;\012  sub sinDRa sinVirama by sinDR;\012  sub sinDhRa sinVirama by sinDhR;\012  sub sinPRa sinVirama by sinPR;\012  sub sinBhRa sinVirama by sinBhR;\012  sub sinMRa sinVirama by sinMR;\012  sub sinVRa sinVirama by sinVR;\012  sub sinShRa sinVirama by sinShR;\012  sub sinSsRa sinVirama by sinSsR;\012  sub sinSRa sinVirama by sinSR;\012  sub sinHRa sinVirama by sinHR;\012  sub sinFRa sinVirama by sinFR;\012  sub sinBRa sinVirama by sinBR;\012 } sin_virama;\012\012#---- ABVS ----\012\012lookup sinabvs_1 {\012  sub sinKa sinMatraI by sinKI;\012  sub sinKha sinMatraI by sinKhI;\012  sub sinGa sinMatraI by sinGI;\012  sub sinGha sinMatraI by sinGhI;\012  sub sinNga sinMatraI by sinNgI;\012  sub sinNnga sinMatraI by sinNngI;\012  sub sinCa sinMatraI by sinCI;\012  sub sinCha sinMatraI by sinChI;\012  sub sinJa sinMatraI by sinJI;\012  sub sinJha sinMatraI by sinJhI;\012  sub sinNya sinMatraI by sinNyI;\012  sub sinJnya sinMatraI by sinJnyI;\012  sub sinNyja sinMatraI by sinNyjI;\012  sub sinTta sinMatraI by sinTtI;\012  sub sinTtha sinMatraI by sinTthI;\012  sub sinDda sinMatraI by sinDdI;\012  sub sinDdha sinMatraI by sinDdhI;\012  sub sinNna sinMatraI by sinNnI;\012  sub sinNndda sinMatraI by sinNnddI;\012  sub sinTa sinMatraI by sinTI;\012  sub sinTha sinMatraI by sinThI;\012  sub sinDa sinMatraI by sinDI;\012  sub sinDha sinMatraI by sinDhI;\012  sub sinNa sinMatraI by sinNI;\012  sub sinNda sinMatraI by sinNdI;\012  sub sinPa sinMatraI by sinPI;\012  sub sinPha sinMatraI by sinPhI;\012  sub sinBa sinMatraI by sinBI;\012  sub sinBha sinMatraI by sinBhI;\012  sub sinMa sinMatraI by sinMI;\012  sub sinMba sinMatraI by sinMbI;\012  sub sinYa sinMatraI by sinYI;\012  sub sinRa sinMatraI by sinRI;\012  sub sinLa sinMatraI by sinLI;\012  sub sinVa sinMatraI by sinVI;\012  sub sinSha sinMatraI by sinShI;\012  sub sinSsa sinMatraI by sinSsI;\012  sub sinSa sinMatraI by sinSI;\012  sub sinHa sinMatraI by sinHI;\012  sub sinLla sinMatraI by sinLlI;\012  sub sinFa sinMatraI by sinFI;\012\012  sub	sinKSsa	sinMatraI	by	sinKSsI;\012  sub	sinKVa	sinMatraI	by	sinKVI;\012  sub	sinTVa	sinMatraI	by	sinTVI;\012  sub	sinTTha	sinMatraI	by	sinTThI;\012  sub	sinNDa	sinMatraI	by	sinNDI;\012  sub	sinNVa	sinMatraI	by	sinNVI;\012  sub	sinNDha	sinMatraI	by	sinNDhI;\012  sub	sinNTha	sinMatraI	by	sinNThI;\012  sub	sinDVa	sinMatraI	by	sinDVI;\012  sub	sinDDha	sinMatraI	by	sinDDhI;\012  sub	sinTtTtha	sinMatraI	by	sinTtTthI;\012  sub 	sinYansaya	sinMatraI by sinYansaya.MatraI;\012\012  sub sinKRa sinMatraI by sinKRI;\012  sub sinKhRa sinMatraI by sinKhRI;\012  sub sinGRa sinMatraI by sinGRI;\012  sub sinGhRa sinMatraI by sinGhRI;\012  sub sinCRa sinMatraI by sinCRI;\012  sub sinJRa sinMatraI by sinJRI;\012  sub sinJhRa sinMatraI by sinJhRI;\012  sub sinNyRa sinMatraI by sinNyRI;\012  sub sinJnyRa sinMatraI by sinJnyRI;\012  sub sinTtRa sinMatraI by sinTtRI;\012  sub sinDdRa sinMatraI by sinDdRI;\012  sub sinTRa sinMatraI by sinTRI;\012  sub sinDRa sinMatraI by sinDRI;\012  sub sinDhRa sinMatraI by sinDhRI;\012  sub sinPRa sinMatraI by sinPRI;\012  sub sinBRa sinMatraI by sinBRI;\012  sub sinBhRa sinMatraI by sinBhRI;\012  sub sinMRa sinMatraI by sinMRI;\012  sub sinVRa sinMatraI by sinVRI;\012  sub sinShRa sinMatraI by sinShRI;\012  sub sinSRa sinMatraI by sinSRI;\012  sub sinHRa sinMatraI by sinHRI;\012  sub sinFRa sinMatraI by sinFRI;\012\012} sinabvs_1;\012\012lookup sinabvs_2 {\012  sub sinKa sinMatraIi by sinKIi;\012  sub sinKha sinMatraIi by sinKhIi;\012  sub sinGa sinMatraIi by sinGIi;\012  sub sinGha sinMatraIi by sinGhIi;\012  sub sinNga sinMatraIi by sinNgIi;\012  sub sinNnga sinMatraIi by sinNngIi;\012  sub sinCa sinMatraIi by sinCIi;\012  sub sinCha sinMatraIi by sinChIi;\012  sub sinJa sinMatraIi by sinJIi;\012  sub sinJha sinMatraIi by sinJhIi;\012  sub sinNya sinMatraIi by sinNyIi;\012  sub sinJnya sinMatraIi by sinJnyIi;\012  sub sinNyja sinMatraIi by sinNyjIi;\012  sub sinTta sinMatraIi by sinTtIi;\012  sub sinTtha sinMatraIi by sinTthIi;\012  sub sinDda sinMatraIi by sinDdIi;\012  sub sinDdha sinMatraIi by sinDdhIi;\012  sub sinNna sinMatraIi by sinNnIi;\012  sub sinNndda sinMatraIi by sinNnddIi;\012  sub sinTa sinMatraIi by sinTIi;\012  sub sinTha sinMatraIi by sinThIi;\012  sub sinDa sinMatraIi by sinDIi;\012  sub sinDha sinMatraIi by sinDhIi;\012  sub sinNa sinMatraIi by sinNIi;\012  sub sinNda sinMatraIi by sinNdIi;\012  sub sinPa sinMatraIi by sinPIi;\012  sub sinPha sinMatraIi by sinPhIi;\012  sub sinBa sinMatraIi by sinBIi;\012  sub sinBha sinMatraIi by sinBhIi;\012  sub sinMa sinMatraIi by sinMIi;\012  sub sinMba sinMatraIi by sinMbIi;\012  sub sinYa sinMatraIi by sinYIi;\012  sub sinRa sinMatraIi by sinRIi;\012  sub sinLa sinMatraIi by sinLIi;\012  sub sinVa sinMatraIi by sinVIi;\012  sub sinSha sinMatraIi by sinShIi;\012  sub sinSsa sinMatraIi by sinSsIi;\012  sub sinSa sinMatraIi by sinSIi;\012  sub sinHa sinMatraIi by sinHIi;\012  sub sinLla sinMatraIi by sinLlIi;\012  sub sinFa sinMatraIi by sinFIi;\012  sub sinYansaya sinMatraIi by sinYansaya.MatraIi;\012\012  sub	sinKSsa	sinMatraIi	by	sinKSsIi;\012  sub	sinKVa	sinMatraIi	by	sinKVIi;\012  sub	sinTVa	sinMatraIi	by	sinTVIi;\012  sub	sinTTha	sinMatraIi	by	sinTThIi;\012  sub	sinNDa	sinMatraIi	by	sinNDIi;\012  sub	sinNVa	sinMatraIi	by	sinNVIi;\012  sub	sinNDha	sinMatraIi	by	sinNDhIi;\012  sub	sinNTha	sinMatraIi	by	sinNThIi;\012  sub	sinDVa	sinMatraIi	by	sinDVIi;\012  sub	sinDDha	sinMatraIi	by	sinDDhIi;\012  sub	sinTtTtha	sinMatraIi	by	sinTtTthIi;\012  sub 	sinYansaya sinMatraIi by sinYansaya.MatraIi;\012\012  sub sinKRa sinMatraIi by sinKRIi;\012  sub sinKhRa sinMatraIi by sinKhRIi;\012  sub sinGRa sinMatraIi by sinGRIi;\012  sub sinGhRa sinMatraIi by sinGhRIi;\012  sub sinCRa sinMatraIi by sinCRIi;\012  sub sinJRa sinMatraIi by sinJRIi;\012  sub sinJhRa sinMatraIi by sinJhRIi;\012  sub sinNyRa sinMatraIi by sinNyRIi;\012  sub sinJnyRa sinMatraIi by sinJnyRIi;\012  sub sinTtRa sinMatraIi by sinTtRIi;\012  sub sinDdRa sinMatraIi by sinDdRIi;\012  sub sinTRa sinMatraIi by sinTRIi;\012  sub sinDRa sinMatraIi by sinDRIi;\012  sub sinDhRa sinMatraIi by sinDhRIi;\012  sub sinPRa sinMatraIi by sinPRIi;\012  sub sinBRa sinMatraIi by sinBRIi;\012  sub sinBhRa sinMatraIi by sinBhRIi;\012  sub sinMRa sinMatraIi by sinMRIi;\012  sub sinVRa sinMatraIi by sinVRIi;\012  sub sinShRa sinMatraIi by sinShRIi;\012  sub sinSRa sinMatraIi by sinSRIi;\012  sub sinHRa sinMatraIi by sinHRIi;\012  sub sinFRa sinMatraIi by sinFRIi;\012\012} sinabvs_2;\012\012\012\012lookup sinabvs_3 {\012  sub sinYansaya sinReph by sinYansaya.reph;\012  sub sinYansaya sinMatraAa sinReph  by sinYansaya_Reph_MatraAa;\012  sub sinYansaya sinMatraU sinReph  by sinYansaya_Reph_MatraU;\012  sub sinYansaya sinMatraUu sinReph  by sinYansaya_Reph_MatraUu;\012  sub sinKa sinReph by sinKa.reph;\012  sub sinKha sinReph by sinKha.reph;\012  sub sinGa sinReph by sinGa.reph;\012  sub sinGha sinReph by sinGha.reph;\012  sub sinCa sinReph by sinCa.reph;\012  sub sinJa sinReph by sinJa.reph;\012  sub sinTta sinReph by sinTta.reph;\012  sub sinDda sinReph by sinDda.reph;\012  sub sinNna sinReph by sinNna.reph;\012  sub sinTa sinReph by sinTa.reph;\012  sub sinTha sinReph by sinTha.reph;\012  sub sinDa sinReph by sinDa.reph;\012  sub sinDha sinReph by sinDha.reph;\012  sub sinPa sinReph by sinPa.reph;\012  sub sinBa sinReph by sinBa.reph;\012  sub sinBha sinReph by sinBha.reph;\012  sub sinMa sinReph by sinMa.reph;\012  sub sinYa sinReph by sinYa.reph;\012  sub sinVa sinReph by sinVa.reph;\012  sub sinSha sinReph by sinSha.reph;\012  sub sinSsa sinReph by sinSsa.reph;\012  sub sinSa sinReph by sinSa.reph;\012  sub sinHa sinReph by sinHa.reph;\012  sub sinNa sinReph by sinNa.reph;\012  sub sinJha sinReph by sinJha.reph;\012  sub sinNya sinReph by sinNya.reph;\012  sub sinJnya sinReph by sinJnya.reph;\012} sinabvs_3;\012\012\012\012#----------- BLWS --------------\012#-------------------------------\012\012lookup sinblws_1 {\012  sub sinKa sinMatraU by sinKU;\012  sub sinKha sinMatraU by sinKhU;\012  sub sinGa sinMatraU by sinGU;\012  sub sinGha sinMatraU by sinGhU;\012  sub sinNnga sinMatraU by sinNngU;\012  sub sinCa sinMatraU by sinCU;\012  sub sinCha sinMatraU by sinChU;\012  sub sinJa sinMatraU by sinJU;\012  sub sinJha sinMatraU by sinJhU;\012  sub sinNya sinMatraU by sinNyU;\012  sub sinJnya sinMatraU by sinJnyU;\012  sub sinNyja sinMatraU by sinNyjU;\012  sub sinTta sinMatraU by sinTtU;\012  sub sinTtha sinMatraU by sinTthU;\012  sub sinDda sinMatraU by sinDdU;\012  sub sinDdha sinMatraU by sinDdhU;\012  sub sinNna sinMatraU by sinNnU;\012  sub sinNndda sinMatraU by sinNnddU;\012  sub sinTa sinMatraU by sinTU;\012  sub sinTha sinMatraU by sinThU;\012  sub sinDa sinMatraU by sinDU;\012  sub sinDha sinMatraU by sinDhU;\012  sub sinNa sinMatraU by sinNU;\012  sub sinNda sinMatraU by sinNdU;\012  sub sinPa sinMatraU by sinPU;\012  sub sinPha sinMatraU by sinPhU;\012  sub sinBa sinMatraU by sinBU;\012  sub sinBha sinMatraU by sinBhU;\012  sub sinMa sinMatraU by sinMU;\012  sub sinMba sinMatraU by sinMbU;\012  sub sinYa sinMatraU by sinYU;\012  sub sinRa sinMatraU by sinRU;\012  sub sinLa sinMatraU by sinLU;\012  sub sinVa sinMatraU by sinVU;\012  sub sinSha sinMatraU by sinShU;\012  sub sinSsa sinMatraU by sinSsU;\012  sub sinSa sinMatraU by sinSU;\012  sub sinHa sinMatraU by sinHU;\012  sub sinLla sinMatraU by sinLlU;\012  sub sinFa sinMatraU by sinFU;\012\012  sub	sinKSsa sinMatraU	by	sinKSsU;\012  sub	sinKVa sinMatraU	by	sinKVU;\012  sub	sinTVa sinMatraU	by	sinTVU;\012  sub	sinTTha sinMatraU	by	sinTThU;\012  sub	sinNDa sinMatraU	by	sinNDU;\012  sub	sinNVa sinMatraU	by	sinNVU;\012  sub	sinNDha sinMatraU	by	sinNDhU;\012  sub	sinNTha sinMatraU	by	sinNThU;\012  sub	sinDVa sinMatraU	by	sinDVU;\012  sub	sinDDha sinMatraU	by	sinDDhU;\012  sub	sinTtTtha	sinMatraU	by	sinTtTthU;\012  sub sinYansaya sinMatraU by sinYansa_MatraU;\012} sinblws_1;\012\012lookup sinblws_2 {\012  sub sinKa sinMatraUu by sinKUu;\012  sub sinKha sinMatraUu by sinKhUu;\012  sub sinGa sinMatraUu by sinGUu;\012  sub sinGha sinMatraUu by sinGhUu;\012  sub sinNnga sinMatraUu by sinNngUu;\012  sub sinCa sinMatraUu by sinCUu;\012  sub sinCha sinMatraUu by sinChUu;\012  sub sinJa sinMatraUu by sinJUu;\012  sub sinJha sinMatraUu by sinJhUu;\012  sub sinNya sinMatraUu by sinNyUu;\012  sub sinJnya sinMatraUu by sinJnyUu;\012  sub sinNyja sinMatraUu by sinNyjUu;\012  sub sinTta sinMatraUu by sinTtUu;\012  sub sinTtha sinMatraUu by sinTthUu;\012  sub sinDda sinMatraUu by sinDdUu;\012  sub sinDdha sinMatraUu by sinDdhUu;\012  sub sinNna sinMatraUu by sinNnUu;\012  sub sinNndda sinMatraUu by sinNnddUu;\012  sub sinTa sinMatraUu by sinTUu;\012  sub sinTha sinMatraUu by sinThUu;\012  sub sinDa sinMatraUu by sinDUu;\012  sub sinDha sinMatraUu by sinDhUu;\012  sub sinNa sinMatraUu by sinNUu;\012  sub sinNda sinMatraUu by sinNdUu;\012  sub sinPa sinMatraUu by sinPUu;\012  sub sinPha sinMatraUu by sinPhUu;\012  sub sinBa sinMatraUu by sinBUu;\012  sub sinBha sinMatraUu by sinBhUu;\012  sub sinMa sinMatraUu by sinMUu;\012  sub sinMba sinMatraUu by sinMbUu;\012  sub sinYa sinMatraUu by sinYUu;\012  sub sinRa sinMatraUu by sinRUu;\012  sub sinLa sinMatraUu by sinLUu;\012  sub sinVa sinMatraUu by sinVUu;\012  sub sinSha sinMatraUu by sinShUu;\012  sub sinSsa sinMatraUu by sinSsUu;\012  sub sinSa sinMatraUu by sinSUu;\012  sub sinHa sinMatraUu by sinHUu;\012  sub sinLla sinMatraUu by sinLlUu;\012  sub sinFa sinMatraUu by sinFUu;\012  \012   sub	sinKSsa	sinMatraUu	by	sinKSsUu;\012  sub	sinKVa	sinMatraUu	by	sinKVUu;\012  sub	sinTVa	sinMatraUu	by	sinTVUu;\012  sub	sinTTha	sinMatraUu	by	sinTThUu;\012  sub	sinNDa	sinMatraUu	by	sinNDUu;\012  sub	sinNVa	sinMatraUu	by	sinNVUu;\012  sub	sinNDha	sinMatraUu	by	sinNDhUu;\012  sub	sinNTha	sinMatraUu	by	sinNThUu;\012  sub	sinDVa	sinMatraUu	by	sinDVUu;\012  sub	sinDDha	sinMatraUu	by	sinDDhUu;\012  sub	sinTtTtha	sinMatraUu	by	sinTtTthUu;\012  sub sinYansaya sinMatraUu by sinYansa_MatraUu;\012} sinblws_2;\012\012\012\012lookup sinblws_3 {\012  sub [sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa ] sinMatraU' by sinMatraU.sub;\012  sub [sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa ] sinMatraUu' by sinMatraUu.sub;\012} sinblws_3;\012\012#----------- Yansaya --------------\012#-------------------------------\012\012lookup sin_vatu {\012  sub sinVirama zerowidthjoiner sinYa by sinYansaya;\012  sub sinVirama zerowidthjoiner sinRa by sinRakar;\012} sin_vatu;\012\012#----------- Rae, Raae --------------\012#-------------------------------\012\012lookup sin_psts {\012  sub sinRa sinMatraAe by sinRAe;\012  sub sinRa sinMatraAae by sinRAae;\012}  sin_psts;\012\012#----------- Rakaar ------------\012#-------------------------------\012\012lookup sinrakaar {\012  sub sinKa sinRakar by sinKRa;\012  sub sinKha sinRakar by sinKhRa;\012  sub sinGa sinRakar by sinGRa;\012  sub sinGha sinRakar by sinGhRa;\012  sub sinCa sinRakar by sinCRa;\012  sub sinJa sinRakar by sinJRa;\012  sub sinJha sinRakar by sinJhRa;\012  sub sinNya sinRakar by sinNyRa;\012  sub sinTta sinRakar by sinTtRa;\012  sub sinJnya sinRakar by sinJnyRa;\012  sub sinNyja sinRakar by sinNyjRa;\012  sub sinDda sinRakar by sinDdRa;\012  sub sinTa sinRakar by sinTRa;\012  sub sinDa sinRakar by sinDRa;\012  sub sinDha sinRakar by sinDhRa;\012  sub sinPa sinRakar by sinPRa;\012  sub sinBha sinRakar by sinBhRa;\012  sub sinMa sinRakar by sinMRa;\012  sub sinVa sinRakar by sinVRa;\012  sub sinSha sinRakar by sinShRa;\012  sub sinSsa sinRakar by sinSsRa;\012  sub sinSa sinRakar by sinSRa;\012  sub sinHa sinRakar by sinHRa;\012  sub sinFa sinRakar by sinFRa;\012  sub sinNDa sinRakar by sinNDRa;\012  sub sinBa sinRakar by sinBRa;\012} sinrakaar;\012\012#----------- Split Matras ------------\012#-------------------------------------\012\012lookup sinsplit_matra {\012  sub sinMatraEe by sinVirama;\012  sub sinMatraO by sinMatraAa;\012  sub sinMatraOo by sinMatraAa.virama;\012  sub sinMatraAu by sinMatraLs;\012} sinsplit_matra;";
+code = "#---- --AKHN ------------\012\012lookup sinakhands {\012  sub ka-sinh virama-sinh zerowidthjoiner ssa-sinh by kSsa-sinh;\012  sub ka-sinh virama-sinh zerowidthjoiner va-sinh by kVa-sinh;\012  sub ta-sinh virama-sinh zerowidthjoiner va-sinh by tVa-sinh;\012  sub ta-sinh virama-sinh zerowidthjoiner tha-sinh by tTha-sinh;\012  sub na-sinh virama-sinh zerowidthjoiner da-sinh by nDa-sinh;\012  sub na-sinh virama-sinh zerowidthjoiner va-sinh by nVa-sinh;\012  sub na-sinh virama-sinh zerowidthjoiner dha-sinh by nDha-sinh;\012  sub na-sinh virama-sinh zerowidthjoiner tha-sinh by nTha-sinh;\012  sub da-sinh virama-sinh zerowidthjoiner va-sinh by dVa-sinh;\012  sub da-sinh virama-sinh zerowidthjoiner dha-sinh by dDha-sinh;\012  sub tta-sinh virama-sinh zerowidthjoiner ttha-sinh by ttTtha-sinh;\012} sinakhands;\012\012#---- REPH ----\012\012lookup sinreph {\012  sub ra-sinh virama-sinh zerowidthjoiner by repha-sinh;\012} sinreph;\012\012#---- HALN ----\012\012lookup sin_virama {\012  sub aasign-sinh virama-sinh by aasign-sinh;\012  sub ka-sinh virama-sinh by k-sinh;\012  sub kha-sinh virama-sinh by kh-sinh;\012  sub ga-sinh virama-sinh by g-sinh;\012  sub gha-sinh virama-sinh by gh-sinh;\012  sub nga-sinh virama-sinh by ng-sinh;\012  sub nnga-sinh virama-sinh by nng-sinh;\012  sub ca-sinh virama-sinh by c-sinh;\012  sub cha-sinh virama-sinh by ch-sinh;\012  sub ja-sinh virama-sinh by j-sinh;\012  sub jha-sinh virama-sinh by jh-sinh;\012  sub nya-sinh virama-sinh by ny-sinh;\012  sub jnya-sinh virama-sinh by jny-sinh;\012  sub nyja-sinh virama-sinh by nyj-sinh;\012  sub tta-sinh virama-sinh by tt-sinh;\012  sub ttha-sinh virama-sinh by tth-sinh;\012  sub dda-sinh virama-sinh by dd-sinh;\012  sub ddha-sinh virama-sinh by ddh-sinh;\012  sub nna-sinh virama-sinh by nn-sinh;\012  sub nndda-sinh virama-sinh by nndd-sinh;\012  sub ta-sinh virama-sinh by t-sinh;\012  sub tha-sinh virama-sinh by th-sinh;\012  sub da-sinh virama-sinh by d-sinh;\012  sub dha-sinh virama-sinh by dh-sinh;\012  sub na-sinh virama-sinh by n-sinh;\012  sub nda-sinh virama-sinh by nd-sinh;\012  sub pa-sinh virama-sinh by p-sinh;\012  sub pha-sinh virama-sinh by ph-sinh;\012  sub ba-sinh virama-sinh by b-sinh;\012  sub bha-sinh virama-sinh by bh-sinh;\012  sub ma-sinh virama-sinh by m-sinh;\012  sub mba-sinh virama-sinh by mb-sinh;\012  sub ya-sinh virama-sinh by y-sinh;\012  sub ra-sinh virama-sinh by r-sinh;\012  sub la-sinh virama-sinh by l-sinh;\012  sub va-sinh virama-sinh by v-sinh;\012  sub sha-sinh virama-sinh by sh-sinh;\012  sub ssa-sinh virama-sinh by ss-sinh;\012  sub sa-sinh virama-sinh by s-sinh;\012  sub ha-sinh virama-sinh by h-sinh;\012  sub lla-sinh virama-sinh by ll-sinh;\012  sub fa-sinh virama-sinh by f-sinh;\012\012  sub dVa-sinh virama-sinh by dV-sinh;\012  sub kVa-sinh virama-sinh by kV-sinh;\012  sub kSsa-sinh virama-sinh by kSs-sinh;\012  sub nVa-sinh virama-sinh by nV-sinh;\012  sub nDa-sinh  virama-sinh by nD-sinh;\012  sub ttTtha-sinh virama-sinh by ttTth-sinh;\012  sub dDha-sinh virama-sinh by dDh-sinh;\012  sub tVa-sinh virama-sinh by tV-sinh;\012  sub tTha-sinh virama-sinh by tTh-sinh;\012  sub nDha-sinh virama-sinh by nDh-sinh;\012  sub nTha-sinh virama-sinh by nTh-sinh;\012  sub yasign-sinh virama-sinh by yasign-sinh;\012\012  sub kRa-sinh virama-sinh by kR-sinh;\012  sub khRa-sinh virama-sinh by khR-sinh;\012  sub gRa-sinh virama-sinh by gR-sinh;\012  sub ghRa-sinh virama-sinh by ghR-sinh;\012  sub cRa-sinh virama-sinh by cR-sinh;\012  sub jRa-sinh virama-sinh by jR-sinh;\012  sub jhRa-sinh virama-sinh by jhR-sinh;\012  sub nyRa-sinh virama-sinh by nyR-sinh;\012  sub ttRa-sinh virama-sinh by ttR-sinh;\012  sub jnyRa-sinh virama-sinh by jnyR-sinh;\012  sub nyjRa-sinh virama-sinh by nyjR-sinh;\012  sub ddRa-sinh virama-sinh by ddR-sinh;\012  sub tRa-sinh virama-sinh by tR-sinh;\012  sub dRa-sinh virama-sinh by dR-sinh;\012  sub dhRa-sinh virama-sinh by dhR-sinh;\012  sub pRa-sinh virama-sinh by pR-sinh;\012  sub bhRa-sinh virama-sinh by bhR-sinh;\012  sub mRa-sinh virama-sinh by mR-sinh;\012  sub vRa-sinh virama-sinh by vR-sinh;\012  sub shRa-sinh virama-sinh by shR-sinh;\012  sub ssRa-sinh virama-sinh by ssR-sinh;\012  sub sRa-sinh virama-sinh by sR-sinh;\012  sub hRa-sinh virama-sinh by hR-sinh;\012  sub fRa-sinh virama-sinh by fR-sinh;\012  sub bRa-sinh virama-sinh by bR-sinh;\012 } sin_virama;\012\012#---- ABVS ----\012\012lookup sinabvs_1 {\012  sub ka-sinh isign-sinh by kI-sinh;\012  sub kha-sinh isign-sinh by khI-sinh;\012  sub ga-sinh isign-sinh by gI-sinh;\012  sub gha-sinh isign-sinh by ghI-sinh;\012  sub nga-sinh isign-sinh by ngI-sinh;\012  sub nnga-sinh isign-sinh by nngI-sinh;\012  sub ca-sinh isign-sinh by cI-sinh;\012  sub cha-sinh isign-sinh by chI-sinh;\012  sub ja-sinh isign-sinh by jI-sinh;\012  sub jha-sinh isign-sinh by jhI-sinh;\012  sub nya-sinh isign-sinh by nyI-sinh;\012  sub jnya-sinh isign-sinh by jnyI-sinh;\012  sub nyja-sinh isign-sinh by nyjI-sinh;\012  sub tta-sinh isign-sinh by ttI-sinh;\012  sub ttha-sinh isign-sinh by tthI-sinh;\012  sub dda-sinh isign-sinh by ddI-sinh;\012  sub ddha-sinh isign-sinh by ddhI-sinh;\012  sub nna-sinh isign-sinh by nnI-sinh;\012  sub nndda-sinh isign-sinh by nnddI-sinh;\012  sub ta-sinh isign-sinh by tI-sinh;\012  sub tha-sinh isign-sinh by thI-sinh;\012  sub da-sinh isign-sinh by dI-sinh;\012  sub dha-sinh isign-sinh by dhI-sinh;\012  sub na-sinh isign-sinh by nI-sinh;\012  sub nda-sinh isign-sinh by ndI-sinh;\012  sub pa-sinh isign-sinh by pI-sinh;\012  sub pha-sinh isign-sinh by phI-sinh;\012  sub ba-sinh isign-sinh by bI-sinh;\012  sub bha-sinh isign-sinh by bhI-sinh;\012  sub ma-sinh isign-sinh by mI-sinh;\012  sub mba-sinh isign-sinh by mbI-sinh;\012  sub ya-sinh isign-sinh by yI-sinh;\012  sub ra-sinh isign-sinh by rI-sinh;\012  sub la-sinh isign-sinh by lI-sinh;\012  sub va-sinh isign-sinh by vI-sinh;\012  sub sha-sinh isign-sinh by shI-sinh;\012  sub ssa-sinh isign-sinh by ssI-sinh;\012  sub sa-sinh isign-sinh by sI-sinh;\012  sub ha-sinh isign-sinh by hI-sinh;\012  sub lla-sinh isign-sinh by llI-sinh;\012  sub fa-sinh isign-sinh by fI-sinh;\012\012  sub	kSsa-sinh	isign-sinh	by	kSsI-sinh;\012  sub	kVa-sinh	isign-sinh	by	kVI-sinh;\012  sub	tVa-sinh	isign-sinh	by	tVI-sinh;\012  sub	tTha-sinh	isign-sinh	by	tThI-sinh;\012  sub	nDa-sinh	isign-sinh	by	nDI-sinh;\012  sub	nVa-sinh	isign-sinh	by	nVI-sinh;\012  sub	nDha-sinh	isign-sinh	by	nDhI-sinh;\012  sub	nTha-sinh	isign-sinh	by	nThI-sinh;\012  sub	dVa-sinh	isign-sinh	by	dVI-sinh;\012  sub	dDha-sinh	isign-sinh	by	dDhI-sinh;\012  sub	ttTtha-sinh	isign-sinh	by	ttTthI-sinh;\012  sub 	yasign-sinh	isign-sinh by yasign_isign-sinh;\012\012  sub kRa-sinh isign-sinh by kRI-sinh;\012  sub khRa-sinh isign-sinh by khRI-sinh;\012  sub gRa-sinh isign-sinh by gRI-sinh;\012  sub ghRa-sinh isign-sinh by ghRI-sinh;\012  sub cRa-sinh isign-sinh by cRI-sinh;\012  sub jRa-sinh isign-sinh by jRI-sinh;\012  sub jhRa-sinh isign-sinh by jhRI-sinh;\012  sub nyRa-sinh isign-sinh by nyRI-sinh;\012  sub jnyRa-sinh isign-sinh by jnyRI-sinh;\012  sub ttRa-sinh isign-sinh by ttRI-sinh;\012  sub ddRa-sinh isign-sinh by ddRI-sinh;\012  sub tRa-sinh isign-sinh by tRI-sinh;\012  sub dRa-sinh isign-sinh by dRI-sinh;\012  sub dhRa-sinh isign-sinh by dhRI-sinh;\012  sub pRa-sinh isign-sinh by pRI-sinh;\012  sub bRa-sinh isign-sinh by bRI-sinh;\012  sub bhRa-sinh isign-sinh by bhRI-sinh;\012  sub mRa-sinh isign-sinh by mRI-sinh;\012  sub vRa-sinh isign-sinh by vRI-sinh;\012  sub shRa-sinh isign-sinh by shRI-sinh;\012  sub sRa-sinh isign-sinh by sRI-sinh;\012  sub hRa-sinh isign-sinh by hRI-sinh;\012  sub fRa-sinh isign-sinh by fRI-sinh;\012\012} sinabvs_1;\012\012lookup sinabvs_2 {\012  sub ka-sinh iisign-sinh by kIi-sinh;\012  sub kha-sinh iisign-sinh by khIi-sinh;\012  sub ga-sinh iisign-sinh by gIi-sinh;\012  sub gha-sinh iisign-sinh by ghIi-sinh;\012  sub nga-sinh iisign-sinh by ngIi-sinh;\012  sub nnga-sinh iisign-sinh by nngIi-sinh;\012  sub ca-sinh iisign-sinh by cIi-sinh;\012  sub cha-sinh iisign-sinh by chIi-sinh;\012  sub ja-sinh iisign-sinh by jIi-sinh;\012  sub jha-sinh iisign-sinh by jhIi-sinh;\012  sub nya-sinh iisign-sinh by nyIi-sinh;\012  sub jnya-sinh iisign-sinh by jnyIi-sinh;\012  sub nyja-sinh iisign-sinh by nyjIi-sinh;\012  sub tta-sinh iisign-sinh by ttIi-sinh;\012  sub ttha-sinh iisign-sinh by tthIi-sinh;\012  sub dda-sinh iisign-sinh by ddIi-sinh;\012  sub ddha-sinh iisign-sinh by ddhIi-sinh;\012  sub nna-sinh iisign-sinh by nnIi-sinh;\012  sub nndda-sinh iisign-sinh by nnddIi-sinh;\012  sub ta-sinh iisign-sinh by tIi-sinh;\012  sub tha-sinh iisign-sinh by thIi-sinh;\012  sub da-sinh iisign-sinh by dIi-sinh;\012  sub dha-sinh iisign-sinh by dhIi-sinh;\012  sub na-sinh iisign-sinh by nIi-sinh;\012  sub nda-sinh iisign-sinh by ndIi-sinh;\012  sub pa-sinh iisign-sinh by pIi-sinh;\012  sub pha-sinh iisign-sinh by phIi-sinh;\012  sub ba-sinh iisign-sinh by bIi-sinh;\012  sub bha-sinh iisign-sinh by bhIi-sinh;\012  sub ma-sinh iisign-sinh by mIi-sinh;\012  sub mba-sinh iisign-sinh by mbIi-sinh;\012  sub ya-sinh iisign-sinh by yIi-sinh;\012  sub ra-sinh iisign-sinh by rIi-sinh;\012  sub la-sinh iisign-sinh by lIi-sinh;\012  sub va-sinh iisign-sinh by vIi-sinh;\012  sub sha-sinh iisign-sinh by shIi-sinh;\012  sub ssa-sinh iisign-sinh by ssIi-sinh;\012  sub sa-sinh iisign-sinh by sIi-sinh;\012  sub ha-sinh iisign-sinh by hIi-sinh;\012  sub lla-sinh iisign-sinh by llIi-sinh;\012  sub fa-sinh iisign-sinh by fIi-sinh;\012  sub yasign-sinh iisign-sinh by yasign_iisign-sinh;\012\012  sub	kSsa-sinh	iisign-sinh	by	kSsIi-sinh;\012  sub	kVa-sinh	iisign-sinh	by	kVIi-sinh;\012  sub	tVa-sinh	iisign-sinh	by	tVIi-sinh;\012  sub	tTha-sinh	iisign-sinh	by	tThIi-sinh;\012  sub	nDa-sinh	iisign-sinh	by	nDIi-sinh;\012  sub	nVa-sinh	iisign-sinh	by	nVIi-sinh;\012  sub	nDha-sinh	iisign-sinh	by	nDhIi-sinh;\012  sub	nTha-sinh	iisign-sinh	by	nThIi-sinh;\012  sub	dVa-sinh	iisign-sinh	by	dVIi-sinh;\012  sub	dDha-sinh	iisign-sinh	by	dDhIi-sinh;\012  sub	ttTtha-sinh	iisign-sinh	by	ttTthIi-sinh;\012  sub 	yasign-sinh iisign-sinh by yasign_iisign-sinh;\012\012  sub kRa-sinh iisign-sinh by kRIi-sinh;\012  sub khRa-sinh iisign-sinh by khRIi-sinh;\012  sub gRa-sinh iisign-sinh by gRIi-sinh;\012  sub ghRa-sinh iisign-sinh by ghRIi-sinh;\012  sub cRa-sinh iisign-sinh by cRIi-sinh;\012  sub jRa-sinh iisign-sinh by jRIi-sinh;\012  sub jhRa-sinh iisign-sinh by jhRIi-sinh;\012  sub nyRa-sinh iisign-sinh by nyRIi-sinh;\012  sub jnyRa-sinh iisign-sinh by jnyRIi-sinh;\012  sub ttRa-sinh iisign-sinh by ttRIi-sinh;\012  sub ddRa-sinh iisign-sinh by ddRIi-sinh;\012  sub tRa-sinh iisign-sinh by tRIi-sinh;\012  sub dRa-sinh iisign-sinh by dRIi-sinh;\012  sub dhRa-sinh iisign-sinh by dhRIi-sinh;\012  sub pRa-sinh iisign-sinh by pRIi-sinh;\012  sub bRa-sinh iisign-sinh by bRIi-sinh;\012  sub bhRa-sinh iisign-sinh by bhRIi-sinh;\012  sub mRa-sinh iisign-sinh by mRIi-sinh;\012  sub vRa-sinh iisign-sinh by vRIi-sinh;\012  sub shRa-sinh iisign-sinh by shRIi-sinh;\012  sub sRa-sinh iisign-sinh by sRIi-sinh;\012  sub hRa-sinh iisign-sinh by hRIi-sinh;\012  sub fRa-sinh iisign-sinh by fRIi-sinh;\012\012} sinabvs_2;\012\012\012\012lookup sinabvs_3 {\012  sub yasign-sinh repha-sinh by yasign_repha-sinh;\012  sub yasign-sinh aasign-sinh repha-sinh  by yasign_repha_aasign-sinh;\012  sub yasign-sinh usign-sinh repha-sinh  by yasign_repha_usign-sinh;\012  sub yasign-sinh uusign-sinh repha-sinh  by yasign_repha_uusign-sinh;\012  sub ka-sinh repha-sinh by ka_repha-sinh;\012  sub kha-sinh repha-sinh by kha_repha-sinh;\012  sub ga-sinh repha-sinh by ga_repha-sinh;\012  sub gha-sinh repha-sinh by gha_repha-sinh;\012  sub ca-sinh repha-sinh by ca_repha-sinh;\012  sub ja-sinh repha-sinh by ja_repha-sinh;\012  sub tta-sinh repha-sinh by tta_repha-sinh;\012  sub dda-sinh repha-sinh by dda_repha-sinh;\012  sub nna-sinh repha-sinh by nna_repha-sinh;\012  sub ta-sinh repha-sinh by ta_repha-sinh;\012  sub tha-sinh repha-sinh by tha_repha-sinh;\012  sub da-sinh repha-sinh by da_repha-sinh;\012  sub dha-sinh repha-sinh by dha_repha-sinh;\012  sub pa-sinh repha-sinh by pa_repha-sinh;\012  sub ba-sinh repha-sinh by ba_repha-sinh;\012  sub bha-sinh repha-sinh by bha_repha-sinh;\012  sub ma-sinh repha-sinh by ma_repha-sinh;\012  sub ya-sinh repha-sinh by ya_repha-sinh;\012  sub va-sinh repha-sinh by va_repha-sinh;\012  sub sha-sinh repha-sinh by sha_repha-sinh;\012  sub ssa-sinh repha-sinh by ssa_repha-sinh;\012  sub sa-sinh repha-sinh by sa_repha-sinh;\012  sub ha-sinh repha-sinh by ha_repha-sinh;\012  sub na-sinh repha-sinh by na_repha-sinh;\012  sub jha-sinh repha-sinh by jha_repha-sinh;\012  sub nya-sinh repha-sinh by nya_repha-sinh;\012  sub jnya-sinh repha-sinh by jnya_repha-sinh;\012} sinabvs_3;\012\012\012\012#----------- BLWS --------------\012#-------------------------------\012\012lookup sinblws_1 {\012  sub ka-sinh usign-sinh by kU-sinh;\012  sub kha-sinh usign-sinh by khU-sinh;\012  sub ga-sinh usign-sinh by gU-sinh;\012  sub gha-sinh usign-sinh by ghU-sinh;\012  sub nnga-sinh usign-sinh by nngU-sinh;\012  sub ca-sinh usign-sinh by cU-sinh;\012  sub cha-sinh usign-sinh by chU-sinh;\012  sub ja-sinh usign-sinh by jU-sinh;\012  sub jha-sinh usign-sinh by jhU-sinh;\012  sub nya-sinh usign-sinh by nyU-sinh;\012  sub jnya-sinh usign-sinh by jnyU-sinh;\012  sub nyja-sinh usign-sinh by nyjU-sinh;\012  sub tta-sinh usign-sinh by ttU-sinh;\012  sub ttha-sinh usign-sinh by tthU-sinh;\012  sub dda-sinh usign-sinh by ddU-sinh;\012  sub ddha-sinh usign-sinh by ddhU-sinh;\012  sub nna-sinh usign-sinh by nnU-sinh;\012  sub nndda-sinh usign-sinh by nnddU-sinh;\012  sub ta-sinh usign-sinh by tU-sinh;\012  sub tha-sinh usign-sinh by thU-sinh;\012  sub da-sinh usign-sinh by dU-sinh;\012  sub dha-sinh usign-sinh by dhU-sinh;\012  sub na-sinh usign-sinh by nU-sinh;\012  sub nda-sinh usign-sinh by ndU-sinh;\012  sub pa-sinh usign-sinh by pU-sinh;\012  sub pha-sinh usign-sinh by phU-sinh;\012  sub ba-sinh usign-sinh by bU-sinh;\012  sub bha-sinh usign-sinh by bhU-sinh;\012  sub ma-sinh usign-sinh by mU-sinh;\012  sub mba-sinh usign-sinh by mbU-sinh;\012  sub ya-sinh usign-sinh by yU-sinh;\012  sub ra-sinh usign-sinh by rU-sinh;\012  sub la-sinh usign-sinh by lU-sinh;\012  sub va-sinh usign-sinh by vU-sinh;\012  sub sha-sinh usign-sinh by shU-sinh;\012  sub ssa-sinh usign-sinh by ssU-sinh;\012  sub sa-sinh usign-sinh by sU-sinh;\012  sub ha-sinh usign-sinh by hU-sinh;\012  sub lla-sinh usign-sinh by llU-sinh;\012  sub fa-sinh usign-sinh by fU-sinh;\012\012  sub	kSsa-sinh usign-sinh	by	kSsU-sinh;\012  sub	kVa-sinh usign-sinh	by	kVU-sinh;\012  sub	tVa-sinh usign-sinh	by	tVU-sinh;\012  sub	tTha-sinh usign-sinh	by	tThU-sinh;\012  sub	nDa-sinh usign-sinh	by	nDU-sinh;\012  sub	nVa-sinh usign-sinh	by	nVU-sinh;\012  sub	nDha-sinh usign-sinh	by	nDhU-sinh;\012  sub	nTha-sinh usign-sinh	by	nThU-sinh;\012  sub	dVa-sinh usign-sinh	by	dVU-sinh;\012  sub	dDha-sinh usign-sinh	by	dDhU-sinh;\012  sub	ttTtha-sinh	usign-sinh	by	ttTthU-sinh;\012  sub yasign-sinh usign-sinh by yasign_usign-sinh;\012} sinblws_1;\012\012lookup sinblws_2 {\012  sub ka-sinh uusign-sinh by kUu-sinh;\012  sub kha-sinh uusign-sinh by khUu-sinh;\012  sub ga-sinh uusign-sinh by gUu-sinh;\012  sub gha-sinh uusign-sinh by ghUu-sinh;\012  sub nnga-sinh uusign-sinh by nngUu-sinh;\012  sub ca-sinh uusign-sinh by cUu-sinh;\012  sub cha-sinh uusign-sinh by chUu-sinh;\012  sub ja-sinh uusign-sinh by jUu-sinh;\012  sub jha-sinh uusign-sinh by jhUu-sinh;\012  sub nya-sinh uusign-sinh by nyUu-sinh;\012  sub jnya-sinh uusign-sinh by jnyUu-sinh;\012  sub nyja-sinh uusign-sinh by nyjUu-sinh;\012  sub tta-sinh uusign-sinh by ttUu-sinh;\012  sub ttha-sinh uusign-sinh by tthUu-sinh;\012  sub dda-sinh uusign-sinh by ddUu-sinh;\012  sub ddha-sinh uusign-sinh by ddhUu-sinh;\012  sub nna-sinh uusign-sinh by nnUu-sinh;\012  sub nndda-sinh uusign-sinh by nnddUu-sinh;\012  sub ta-sinh uusign-sinh by tUu-sinh;\012  sub tha-sinh uusign-sinh by thUu-sinh;\012  sub da-sinh uusign-sinh by dUu-sinh;\012  sub dha-sinh uusign-sinh by dhUu-sinh;\012  sub na-sinh uusign-sinh by nUu-sinh;\012  sub nda-sinh uusign-sinh by ndUu-sinh;\012  sub pa-sinh uusign-sinh by pUu-sinh;\012  sub pha-sinh uusign-sinh by phUu-sinh;\012  sub ba-sinh uusign-sinh by bUu-sinh;\012  sub bha-sinh uusign-sinh by bhUu-sinh;\012  sub ma-sinh uusign-sinh by mUu-sinh;\012  sub mba-sinh uusign-sinh by mbUu-sinh;\012  sub ya-sinh uusign-sinh by yUu-sinh;\012  sub ra-sinh uusign-sinh by rUu-sinh;\012  sub la-sinh uusign-sinh by lUu-sinh;\012  sub va-sinh uusign-sinh by vUu-sinh;\012  sub sha-sinh uusign-sinh by shUu-sinh;\012  sub ssa-sinh uusign-sinh by ssUu-sinh;\012  sub sa-sinh uusign-sinh by sUu-sinh;\012  sub ha-sinh uusign-sinh by hUu-sinh;\012  sub lla-sinh uusign-sinh by llUu-sinh;\012  sub fa-sinh uusign-sinh by fUu-sinh;\012  \012   sub	kSsa-sinh	uusign-sinh	by	kSsUu-sinh;\012  sub	kVa-sinh	uusign-sinh	by	kVUu-sinh;\012  sub	tVa-sinh	uusign-sinh	by	tVUu-sinh;\012  sub	tTha-sinh	uusign-sinh	by	tThUu-sinh;\012  sub	nDa-sinh	uusign-sinh	by	nDUu-sinh;\012  sub	nVa-sinh	uusign-sinh	by	nVUu-sinh;\012  sub	nDha-sinh	uusign-sinh	by	nDhUu-sinh;\012  sub	nTha-sinh	uusign-sinh	by	nThUu-sinh;\012  sub	dVa-sinh	uusign-sinh	by	dVUu-sinh;\012  sub	dDha-sinh	uusign-sinh	by	dDhUu-sinh;\012  sub	ttTtha-sinh	uusign-sinh	by	ttTthUu-sinh;\012  sub yasign-sinh uusign-sinh by yasign_uusign-sinh;\012} sinblws_2;\012\012\012\012lookup sinblws_3 {\012  sub [kRa-sinh khRa-sinh gRa-sinh ghRa-sinh cRa-sinh jRa-sinh jhRa-sinh nyRa-sinh ttRa-sinh jnyRa-sinh nyjRa-sinh ddRa-sinh tRa-sinh dRa-sinh dhRa-sinh pRa-sinh bhRa-sinh mRa-sinh vRa-sinh shRa-sinh ssRa-sinh sRa-sinh hRa-sinh fRa-sinh nDRa-sinh bRa-sinh kRa-sinh khRa-sinh gRa-sinh ghRa-sinh cRa-sinh jRa-sinh jhRa-sinh nyRa-sinh ttRa-sinh jnyRa-sinh nyjRa-sinh ddRa-sinh tRa-sinh dRa-sinh dhRa-sinh pRa-sinh bhRa-sinh mRa-sinh vRa-sinh shRa-sinh ssRa-sinh sRa-sinh hRa-sinh fRa-sinh nDRa-sinh bRa-sinh ] usign-sinh' by usign-sinh.sub;\012  sub [kRa-sinh khRa-sinh gRa-sinh ghRa-sinh cRa-sinh jRa-sinh jhRa-sinh nyRa-sinh ttRa-sinh jnyRa-sinh nyjRa-sinh ddRa-sinh tRa-sinh dRa-sinh dhRa-sinh pRa-sinh bhRa-sinh mRa-sinh vRa-sinh shRa-sinh ssRa-sinh sRa-sinh hRa-sinh fRa-sinh nDRa-sinh bRa-sinh kRa-sinh khRa-sinh gRa-sinh ghRa-sinh cRa-sinh jRa-sinh jhRa-sinh nyRa-sinh ttRa-sinh jnyRa-sinh nyjRa-sinh ddRa-sinh tRa-sinh dRa-sinh dhRa-sinh pRa-sinh bhRa-sinh mRa-sinh vRa-sinh shRa-sinh ssRa-sinh sRa-sinh hRa-sinh fRa-sinh nDRa-sinh bRa-sinh ] uusign-sinh' by uusign-sinh.sub;\012} sinblws_3;\012\012#----------- Yansaya --------------\012#-------------------------------\012\012lookup sin_vatu {\012  sub virama-sinh zerowidthjoiner ya-sinh by yasign-sinh;\012  sub virama-sinh zerowidthjoiner ra-sinh by rasign-sinh;\012} sin_vatu;\012\012#----------- Rae, Raae --------------\012#-------------------------------\012\012lookup sin_psts {\012  sub ra-sinh aesign-sinh by rAe-sinh;\012  sub ra-sinh aaesign-sinh by rAae-sinh;\012}  sin_psts;\012\012#----------- Rakaar ------------\012#-------------------------------\012\012lookup sinrakaar {\012  sub ka-sinh rasign-sinh by kRa-sinh;\012  sub kha-sinh rasign-sinh by khRa-sinh;\012  sub ga-sinh rasign-sinh by gRa-sinh;\012  sub gha-sinh rasign-sinh by ghRa-sinh;\012  sub ca-sinh rasign-sinh by cRa-sinh;\012  sub ja-sinh rasign-sinh by jRa-sinh;\012  sub jha-sinh rasign-sinh by jhRa-sinh;\012  sub nya-sinh rasign-sinh by nyRa-sinh;\012  sub tta-sinh rasign-sinh by ttRa-sinh;\012  sub jnya-sinh rasign-sinh by jnyRa-sinh;\012  sub nyja-sinh rasign-sinh by nyjRa-sinh;\012  sub dda-sinh rasign-sinh by ddRa-sinh;\012  sub ta-sinh rasign-sinh by tRa-sinh;\012  sub da-sinh rasign-sinh by dRa-sinh;\012  sub dha-sinh rasign-sinh by dhRa-sinh;\012  sub pa-sinh rasign-sinh by pRa-sinh;\012  sub bha-sinh rasign-sinh by bhRa-sinh;\012  sub ma-sinh rasign-sinh by mRa-sinh;\012  sub va-sinh rasign-sinh by vRa-sinh;\012  sub sha-sinh rasign-sinh by shRa-sinh;\012  sub ssa-sinh rasign-sinh by ssRa-sinh;\012  sub sa-sinh rasign-sinh by sRa-sinh;\012  sub ha-sinh rasign-sinh by hRa-sinh;\012  sub fa-sinh rasign-sinh by fRa-sinh;\012  sub nDa-sinh rasign-sinh by nDRa-sinh;\012  sub ba-sinh rasign-sinh by bRa-sinh;\012} sinrakaar;\012\012#----------- Split Matras ------------\012#-------------------------------------\012\012lookup sinsplit_matra {\012  sub eesign-sinh by virama-sinh;\012  sub osign-sinh by aasign-sinh;\012  sub oosign-sinh by aasign_virama-sinh;\012  sub ausign-sinh by vocalicllsign-sinh;\012} sinsplit_matra;";
 name = Prefix;
 }
 );
@@ -914,7 +914,7 @@ xHeight = 526;
 );
 glyphs = (
 {
-glyphname = sinA;
+glyphname = "a-sinh";
 lastChange = "2021-09-08 06:24:26 +0000";
 layers = (
 {
@@ -983,19 +983,19 @@ leftMetricsKey = t;
 unicode = 0D85;
 },
 {
-glyphname = sinAa;
+glyphname = "aa-sinh";
 lastChange = "2021-09-08 07:07:13 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAa;
+name = "aasign-sinh";
 transform = "{1, 0, 0, 0.9826, 611, 0}";
 },
 {
 alignment = -1;
-name = sinA;
+name = "a-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1041,19 +1041,19 @@ width = 141;
 };
 },
 {
-glyphname = sinAe;
+glyphname = "ae-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAe;
+name = "aesign-sinh";
 transform = "{1, 0, 0, 1, 542, 0}";
 },
 {
 alignment = -1;
-name = sinA;
+name = "a-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1107,19 +1107,19 @@ width = 217;
 };
 },
 {
-glyphname = sinAae;
+glyphname = "aae-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAae;
+name = "aaesign-sinh";
 transform = "{1, 0, 0, 1, 542, 0}";
 },
 {
 alignment = -1;
-name = sinA;
+name = "a-sinh";
 transform = "{1, 0, 0, 1, 16, 0}";
 }
 );
@@ -1178,7 +1178,7 @@ width = 40;
 };
 },
 {
-glyphname = sinI;
+glyphname = "i-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -1297,14 +1297,14 @@ width = 137;
 };
 },
 {
-glyphname = sinIi;
+glyphname = "ii-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRa;
+name = "ra-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1386,7 +1386,7 @@ width = 146;
 };
 },
 {
-glyphname = sinU;
+glyphname = "u-sinh";
 lastChange = "2026-04-25 07:36:54 +0000";
 layers = (
 {
@@ -1480,19 +1480,19 @@ width = 39;
 };
 },
 {
-glyphname = sinUu;
+glyphname = "uu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraLs;
+name = "vocalicllsign-sinh";
 transform = "{1, 0, 0, 1, 577, 0}";
 },
 {
 alignment = -1;
-name = sinU;
+name = "u-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1502,14 +1502,14 @@ width = 966;
 unicode = 0D8C;
 },
 {
-glyphname = sinRVocalic;
+glyphname = "vocalicr-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraR;
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 649, 0}";
 }
 );
@@ -1619,19 +1619,19 @@ width = 975;
 unicode = 0D8D;
 },
 {
-glyphname = sinRrVocalic;
+glyphname = "vocalicrr-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraR;
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 988, 0}";
 },
 {
 alignment = -1;
-name = sinRVocalic;
+name = "vocalicr-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1640,14 +1640,14 @@ width = 1314;
 );
 },
 {
-glyphname = sinLVocalic;
+glyphname = "vocalicl-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
@@ -1764,19 +1764,19 @@ width = 903;
 unicode = 0D8F;
 },
 {
-glyphname = sinLlVocalic;
+glyphname = "vocalicll-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraLs;
+name = "vocalicllsign-sinh";
 transform = "{1, 0, 0, 1, 919, 0}";
 },
 {
 alignment = -1;
-name = sinLVocalic;
+name = "vocalicl-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1786,7 +1786,7 @@ width = 1308;
 unicode = 0D90;
 },
 {
-glyphname = sinE;
+glyphname = "e-sinh";
 lastChange = "2021-09-13 11:03:30 +0000";
 layers = (
 {
@@ -1913,14 +1913,14 @@ width = 42;
 };
 },
 {
-glyphname = sinEe;
+glyphname = "ee-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinE;
+name = "e-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1977,19 +1977,19 @@ width = 42;
 };
 },
 {
-glyphname = sinAi;
+glyphname = "ai-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinE;
+name = "e-sinh";
 transform = "{1, 0, 0, 1, 457, 0}";
 },
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -1999,7 +1999,7 @@ width = 1049;
 unicode = 0D93;
 },
 {
-glyphname = sinO;
+glyphname = "o-sinh";
 lastChange = "2021-09-08 06:33:23 +0000";
 layers = (
 {
@@ -2107,7 +2107,7 @@ leftMetricsKey = t50;
 unicode = 0D94;
 },
 {
-glyphname = sinOo;
+glyphname = "oo-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -2241,19 +2241,19 @@ width = 585;
 unicode = 0D95;
 },
 {
-glyphname = sinAu;
+glyphname = "au-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraLs;
+name = "vocalicllsign-sinh";
 transform = "{1, 0, 0, 1, 601, 0}";
 },
 {
 alignment = -1;
-name = sinO;
+name = "o-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -2263,7 +2263,7 @@ width = 990;
 unicode = 0D96;
 },
 {
-glyphname = sinKa;
+glyphname = "ka-sinh";
 lastChange = "2021-09-08 06:22:48 +0000";
 layers = (
 {
@@ -2378,7 +2378,7 @@ width = 768;
 unicode = 0D9A;
 },
 {
-glyphname = sinKha;
+glyphname = "kha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -2500,7 +2500,7 @@ width = 42;
 };
 },
 {
-glyphname = sinGa;
+glyphname = "ga-sinh";
 lastChange = "2021-09-08 06:39:02 +0000";
 layers = (
 {
@@ -2624,7 +2624,7 @@ width = 40;
 };
 },
 {
-glyphname = sinGha;
+glyphname = "gha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -2794,7 +2794,7 @@ width = 139;
 };
 },
 {
-glyphname = sinNga;
+glyphname = "nga-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -2954,7 +2954,7 @@ width = 141;
 };
 },
 {
-glyphname = sinNnga;
+glyphname = "nnga-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -3109,7 +3109,7 @@ width = 40;
 };
 },
 {
-glyphname = sinCa;
+glyphname = "ca-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -3228,7 +3228,7 @@ width = 41;
 };
 },
 {
-glyphname = sinCha;
+glyphname = "cha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -3368,7 +3368,7 @@ width = 140;
 };
 },
 {
-glyphname = sinJa;
+glyphname = "ja-sinh";
 lastChange = "2021-09-16 07:11:48 +0000";
 layers = (
 {
@@ -3498,7 +3498,7 @@ width = 140;
 };
 },
 {
-glyphname = sinJha;
+glyphname = "jha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -3724,7 +3724,7 @@ width = 141;
 };
 },
 {
-glyphname = sinNya;
+glyphname = "nya-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -3935,7 +3935,7 @@ width = 143;
 };
 },
 {
-glyphname = sinJnya;
+glyphname = "jnya-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -4118,14 +4118,14 @@ width = 141;
 };
 },
 {
-glyphname = sinNyja;
+glyphname = "nyja-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -4165,7 +4165,7 @@ width = 778;
 unicode = 0DA6;
 },
 {
-glyphname = sinTta;
+glyphname = "tta-sinh";
 lastChange = "2021-09-13 11:03:13 +0000";
 layers = (
 {
@@ -4265,7 +4265,7 @@ width = 41;
 };
 },
 {
-glyphname = sinTtha;
+glyphname = "ttha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -4393,7 +4393,7 @@ width = 42;
 };
 },
 {
-glyphname = sinDda;
+glyphname = "dda-sinh";
 lastChange = "2026-03-28 00:15:28 +0000";
 layers = (
 {
@@ -4538,7 +4538,7 @@ width = 42;
 };
 },
 {
-glyphname = sinDdha;
+glyphname = "ddha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -4688,7 +4688,7 @@ width = 42;
 };
 },
 {
-glyphname = sinNna;
+glyphname = "nna-sinh";
 lastChange = "2026-04-25 07:38:10 +0000";
 layers = (
 {
@@ -4820,7 +4820,7 @@ width = 996;
 unicode = 0DAB;
 },
 {
-glyphname = sinNndda;
+glyphname = "nndda-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -4949,7 +4949,7 @@ width = 740;
 unicode = 0DAC;
 },
 {
-glyphname = sinTa;
+glyphname = "ta-sinh";
 lastChange = "2021-09-08 06:40:47 +0000";
 layers = (
 {
@@ -5069,7 +5069,7 @@ width = 40;
 };
 },
 {
-glyphname = sinTha;
+glyphname = "tha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -5183,7 +5183,7 @@ width = 42;
 };
 },
 {
-glyphname = sinDa;
+glyphname = "da-sinh";
 lastChange = "2021-09-08 06:38:06 +0000";
 layers = (
 {
@@ -5285,7 +5285,7 @@ width = 143;
 };
 },
 {
-glyphname = sinDha;
+glyphname = "dha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -5408,7 +5408,7 @@ width = 42;
 };
 },
 {
-glyphname = sinNa;
+glyphname = "na-sinh";
 lastChange = "2021-09-08 06:40:02 +0000";
 layers = (
 {
@@ -5536,7 +5536,7 @@ width = 140;
 };
 },
 {
-glyphname = sinNda;
+glyphname = "nda-sinh";
 lastChange = "2021-09-08 06:35:09 +0000";
 layers = (
 {
@@ -5669,7 +5669,7 @@ width = 143;
 };
 },
 {
-glyphname = sinPa;
+glyphname = "pa-sinh";
 lastChange = "2021-09-11 06:33:56 +0000";
 layers = (
 {
@@ -5794,7 +5794,7 @@ width = 140;
 };
 },
 {
-glyphname = sinPha;
+glyphname = "pha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -5925,7 +5925,7 @@ width = 42;
 };
 },
 {
-glyphname = sinBa;
+glyphname = "ba-sinh";
 lastChange = "2026-03-07 15:27:08 +0000";
 layers = (
 {
@@ -6018,7 +6018,7 @@ leftMetricsKey = t;
 unicode = 0DB6;
 },
 {
-glyphname = sinBha;
+glyphname = "bha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -6155,7 +6155,7 @@ width = 40;
 };
 },
 {
-glyphname = sinMa;
+glyphname = "ma-sinh";
 lastChange = "2021-09-08 07:09:43 +0000";
 layers = (
 {
@@ -6245,7 +6245,7 @@ width = 576;
 unicode = 0DB8;
 },
 {
-glyphname = sinMba;
+glyphname = "mba-sinh";
 lastChange = "2021-09-16 07:11:13 +0000";
 layers = (
 {
@@ -6399,7 +6399,7 @@ width = 140;
 };
 },
 {
-glyphname = sinYa;
+glyphname = "ya-sinh";
 lastChange = "2021-09-08 06:33:15 +0000";
 layers = (
 {
@@ -6497,7 +6497,7 @@ width = 635;
 unicode = 0DBA;
 },
 {
-glyphname = sinRa;
+glyphname = "ra-sinh";
 lastChange = "2021-09-08 07:07:18 +0000";
 layers = (
 {
@@ -6577,7 +6577,7 @@ width = 140;
 };
 },
 {
-glyphname = sinLa;
+glyphname = "la-sinh";
 lastChange = "2021-09-13 11:03:19 +0000";
 layers = (
 {
@@ -6699,7 +6699,7 @@ width = 42;
 };
 },
 {
-glyphname = sinVa;
+glyphname = "va-sinh";
 lastChange = "2021-09-08 06:26:04 +0000";
 layers = (
 {
@@ -6814,7 +6814,7 @@ width = 41;
 };
 },
 {
-glyphname = sinSha;
+glyphname = "sha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -6950,7 +6950,7 @@ width = 40;
 };
 },
 {
-glyphname = sinSsa;
+glyphname = "ssa-sinh";
 lastChange = "2021-09-08 06:24:05 +0000";
 layers = (
 {
@@ -7052,7 +7052,7 @@ width = 628;
 unicode = 0DC2;
 },
 {
-glyphname = sinSa;
+glyphname = "sa-sinh";
 lastChange = "2021-09-08 07:06:31 +0000";
 layers = (
 {
@@ -7196,7 +7196,7 @@ width = 40;
 };
 },
 {
-glyphname = sinHa;
+glyphname = "ha-sinh";
 lastChange = "2021-09-13 13:15:11 +0000";
 layers = (
 {
@@ -7339,7 +7339,7 @@ width = 40;
 };
 },
 {
-glyphname = sinLla;
+glyphname = "lla-sinh";
 lastChange = "2021-09-13 11:07:27 +0000";
 layers = (
 {
@@ -7442,7 +7442,7 @@ width = 609;
 unicode = 0DC5;
 },
 {
-glyphname = sinFa;
+glyphname = "fa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -7547,7 +7547,7 @@ width = 139;
 };
 },
 {
-glyphname = sinKSsa;
+glyphname = "kSsa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -7729,7 +7729,7 @@ width = 1165;
 );
 },
 {
-glyphname = sinKVa;
+glyphname = "kVa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -7914,7 +7914,7 @@ width = 140;
 };
 },
 {
-glyphname = sinTVa;
+glyphname = "tVa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -8076,7 +8076,7 @@ width = 140;
 };
 },
 {
-glyphname = sinTTha;
+glyphname = "tTha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -8263,7 +8263,7 @@ width = 42;
 };
 },
 {
-glyphname = sinNDa;
+glyphname = "nDa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -8427,7 +8427,7 @@ width = 143;
 };
 },
 {
-glyphname = sinNDha;
+glyphname = "nDha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -8624,7 +8624,7 @@ width = 141;
 };
 },
 {
-glyphname = sinNVa;
+glyphname = "nVa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -8789,7 +8789,7 @@ width = 140;
 };
 },
 {
-glyphname = sinNTha;
+glyphname = "nTha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -8984,7 +8984,7 @@ width = 140;
 };
 },
 {
-glyphname = sinGDha;
+glyphname = "gDha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -9178,14 +9178,14 @@ width = 141;
 };
 },
 {
-glyphname = sinDVa;
+glyphname = "dVa-sinh";
 lastChange = "2021-09-08 06:26:18 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVa;
+name = "va-sinh";
 transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
@@ -9260,14 +9260,14 @@ width = 41;
 };
 },
 {
-glyphname = sinDDha;
+glyphname = "dDha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDha;
+name = "dha-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -9302,14 +9302,14 @@ width = 734;
 );
 },
 {
-glyphname = sinTtTtha;
+glyphname = "ttTtha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTtha;
+name = "ttha-sinh";
 transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
@@ -9344,7 +9344,7 @@ width = 734;
 );
 },
 {
-glyphname = sinMatraAae;
+glyphname = "aaesign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -9415,7 +9415,7 @@ width = 40;
 };
 },
 {
-glyphname = sinMatraAe;
+glyphname = "aesign-sinh";
 lastChange = "2021-09-08 06:35:43 +0000";
 layers = (
 {
@@ -9476,18 +9476,18 @@ width = 40;
 };
 },
 {
-glyphname = sinMatraAi;
+glyphname = "aisign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 },
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 transform = "{1, 0, 0, 1, 457, 0}";
 }
 );
@@ -9500,19 +9500,19 @@ category = Mark;
 subCategory = Spacing;
 },
 {
-glyphname = sinMatraAu;
+glyphname = "ausign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraLs;
+name = "vocalicllsign-sinh";
 transform = "{1, 0, 0, 1, 473, 0}";
 },
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -9522,7 +9522,7 @@ width = 862;
 unicode = 0DDE;
 },
 {
-glyphname = sinMatraE;
+glyphname = "esign-sinh";
 lastChange = "2021-09-08 06:32:58 +0000";
 layers = (
 {
@@ -9627,19 +9627,19 @@ width = 40;
 };
 },
 {
-glyphname = sinMatraEe;
+glyphname = "eesign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 600, 0}";
 },
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -9649,7 +9649,7 @@ width = 719;
 unicode = 0DDA;
 },
 {
-glyphname = sinMatraI;
+glyphname = "isign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -9685,7 +9685,7 @@ width = 0;
 unicode = 0DD2;
 },
 {
-glyphname = sinMatraIi;
+glyphname = "iisign-sinh";
 lastChange = "2021-09-16 09:58:09 +0000";
 layers = (
 {
@@ -9748,14 +9748,14 @@ width = 0;
 unicode = 0DD3;
 },
 {
-glyphname = sinMatraLl;
+glyphname = "vocaliclsign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraLs;
+name = "vocalicllsign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -9767,7 +9767,7 @@ category = Mark;
 subCategory = Spacing;
 },
 {
-glyphname = sinMatraLs;
+glyphname = "vocalicllsign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -9843,19 +9843,19 @@ width = 141;
 };
 },
 {
-glyphname = sinMatraO;
+glyphname = "osign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAa;
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 457, 0}";
 },
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -9865,24 +9865,24 @@ width = 720;
 unicode = 0DDC;
 },
 {
-glyphname = sinMatraOo;
+glyphname = "oosign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 523, 0}";
 },
 {
 alignment = -1;
-name = sinMatraAa;
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 524, 0}";
 },
 {
 alignment = -1;
-name = sinMatraE;
+name = "esign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -9892,7 +9892,7 @@ width = 787;
 unicode = 0DDD;
 },
 {
-glyphname = sinMatraR;
+glyphname = "vocalicrsign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -9944,18 +9944,18 @@ category = Mark;
 subCategory = Spacing;
 },
 {
-glyphname = sinMatraRr;
+glyphname = "vocalicrrsign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraR;
+name = "vocalicrsign-sinh";
 },
 {
 alignment = -1;
-name = sinMatraR;
+name = "vocalicrsign-sinh";
 transform = "{1, 0, 0, 1, 326, 0}";
 }
 );
@@ -9968,7 +9968,7 @@ category = Mark;
 subCategory = Spacing;
 },
 {
-glyphname = sinMatraU;
+glyphname = "usign-sinh";
 lastChange = "2021-09-13 13:25:46 +0000";
 layers = (
 {
@@ -10024,7 +10024,7 @@ width = 172;
 };
 },
 {
-glyphname = sinMatraUu;
+glyphname = "uusign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10092,7 +10092,7 @@ width = 42;
 };
 },
 {
-glyphname = sinMatraU.sub;
+glyphname = "usign-sinh.sub";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10132,7 +10132,7 @@ category = Mark;
 subCategory = Spacing;
 },
 {
-glyphname = sinMatraUu.sub;
+glyphname = "uusign-sinh.sub";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10178,7 +10178,7 @@ category = Mark;
 subCategory = Spacing;
 },
 {
-glyphname = sinVirama;
+glyphname = "virama-sinh";
 lastChange = "2021-09-08 07:08:20 +0000";
 layers = (
 {
@@ -10216,7 +10216,7 @@ width = 40;
 };
 },
 {
-glyphname = sinRakar;
+glyphname = "rasign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10261,7 +10261,7 @@ width = 0;
 );
 },
 {
-glyphname = sinReph;
+glyphname = "repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10308,7 +10308,7 @@ width = 406;
 );
 },
 {
-glyphname = sinAnusvara;
+glyphname = "anusvaraya-sinh";
 lastChange = "2021-09-18 05:27:22 +0000";
 layers = (
 {
@@ -10361,7 +10361,7 @@ unicode = 0D82;
 category = Letter;
 },
 {
-glyphname = sinVisarga;
+glyphname = "visargaya-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10480,7 +10480,7 @@ width = 40;
 };
 },
 {
-glyphname = sinMatraAa;
+glyphname = "aasign-sinh";
 lastChange = "2021-09-08 06:34:17 +0000";
 layers = (
 {
@@ -10540,19 +10540,19 @@ width = 41;
 };
 },
 {
-glyphname = sinMatraAa.virama;
+glyphname = "aasign_virama-sinh";
 lastChange = "2021-09-13 13:22:24 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 69, -77}";
 },
 {
 alignment = -1;
-name = sinMatraAa;
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
@@ -10565,19 +10565,19 @@ subCategory = Spacing;
 },
 {
 color = 4;
-glyphname = sinK;
+glyphname = "k-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 540, -88}";
 },
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -10586,7 +10586,7 @@ width = 768;
 );
 },
 {
-glyphname = sinKh;
+glyphname = "kh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10698,19 +10698,19 @@ width = 593;
 },
 {
 color = 4;
-glyphname = sinG;
+glyphname = "g-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 508, -100}";
 },
 {
 alignment = -1;
-name = sinGa;
+name = "ga-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -10719,19 +10719,19 @@ width = 706;
 );
 },
 {
-glyphname = sinGh;
+glyphname = "gh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 442, 0}";
 },
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -10740,7 +10740,7 @@ width = 679;
 );
 },
 {
-glyphname = sinNg;
+glyphname = "ng-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -10918,19 +10918,19 @@ width = 141;
 };
 },
 {
-glyphname = sinNng;
+glyphname = "nng-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 608, 0}";
 },
 {
 alignment = -1;
-name = sinNnga;
+name = "nnga-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -10939,7 +10939,7 @@ width = 857;
 );
 },
 {
-glyphname = sinC;
+glyphname = "c-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -11049,14 +11049,14 @@ width = 592;
 );
 },
 {
-glyphname = sinCh;
+glyphname = "ch-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinCha;
+name = "cha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11077,14 +11077,14 @@ width = 629;
 );
 },
 {
-glyphname = sinJ;
+glyphname = "j-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11121,7 +11121,7 @@ width = 136;
 };
 },
 {
-glyphname = sinJh;
+glyphname = "jh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -11330,19 +11330,19 @@ width = 1110;
 );
 },
 {
-glyphname = sinNy;
+glyphname = "ny-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 850, 0}";
 },
 {
 alignment = -1;
-name = sinNya;
+name = "nya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11351,19 +11351,19 @@ width = 1124;
 );
 },
 {
-glyphname = sinJny;
+glyphname = "jny-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 783, 0}";
 },
 {
 alignment = -1;
-name = sinJnya;
+name = "jnya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11372,14 +11372,14 @@ width = 1057;
 );
 },
 {
-glyphname = sinNyj;
+glyphname = "nyj-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyja;
+name = "nyja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11400,7 +11400,7 @@ width = 778;
 );
 },
 {
-glyphname = sinTt;
+glyphname = "tt-sinh";
 lastChange = "2021-09-13 13:14:41 +0000";
 layers = (
 {
@@ -11495,14 +11495,14 @@ width = 547;
 );
 },
 {
-glyphname = sinTth;
+glyphname = "tth-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTtha;
+name = "ttha-sinh";
 transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
@@ -11523,7 +11523,7 @@ width = 583;
 );
 },
 {
-glyphname = sinDd;
+glyphname = "dd-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -11652,14 +11652,14 @@ width = 626;
 );
 },
 {
-glyphname = sinDdh;
+glyphname = "ddh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDdha;
+name = "ddha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11679,19 +11679,19 @@ width = 626;
 );
 },
 {
-glyphname = sinNn;
+glyphname = "nn-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 758, 0}";
 },
 {
 alignment = -1;
-name = sinNna;
+name = "nna-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11700,7 +11700,7 @@ width = 974;
 );
 },
 {
-glyphname = sinNndd;
+glyphname = "nndd-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -11860,19 +11860,19 @@ width = 742;
 },
 {
 color = 4;
-glyphname = sinT;
+glyphname = "t-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 535, -100}";
 },
 {
 alignment = -1;
-name = sinTa;
+name = "ta-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11881,14 +11881,14 @@ width = 762;
 );
 },
 {
-glyphname = sinTh;
+glyphname = "th-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTha;
+name = "tha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11909,19 +11909,19 @@ width = 547;
 },
 {
 color = 4;
-glyphname = sinD;
+glyphname = "d-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 294, -94}";
 },
 {
 alignment = -1;
-name = sinDa;
+name = "da-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -11930,7 +11930,7 @@ width = 536;
 );
 },
 {
-glyphname = sinDh;
+glyphname = "dh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -12045,19 +12045,19 @@ width = 583;
 },
 {
 color = 4;
-glyphname = sinN;
+glyphname = "n-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 508, -90}";
 },
 {
 alignment = -1;
-name = sinNa;
+name = "na-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12067,19 +12067,19 @@ width = 734;
 },
 {
 color = 4;
-glyphname = sinNd;
+glyphname = "nd-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 415, -80}";
 },
 {
 alignment = -1;
-name = sinNda;
+name = "nda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12089,19 +12089,19 @@ width = 686;
 },
 {
 color = 4;
-glyphname = sinP;
+glyphname = "p-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 387, -70}";
 },
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12110,14 +12110,14 @@ width = 622;
 );
 },
 {
-glyphname = sinPh;
+glyphname = "ph-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12138,7 +12138,7 @@ width = 552;
 },
 {
 color = 4;
-glyphname = sinB;
+glyphname = "b-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
@@ -12249,19 +12249,19 @@ width = 591;
 );
 },
 {
-glyphname = sinBh;
+glyphname = "bh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 497, 0}";
 },
 {
 alignment = -1;
-name = sinBha;
+name = "bha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12271,7 +12271,7 @@ width = 745;
 },
 {
 color = 4;
-glyphname = sinM;
+glyphname = "m-sinh";
 lastChange = "2026-03-07 15:24:52 +0000";
 layers = (
 {
@@ -12399,7 +12399,7 @@ width = 586;
 rightMetricsKey = 40t;
 },
 {
-glyphname = sinMb;
+glyphname = "mb-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -12540,19 +12540,19 @@ width = 588;
 );
 },
 {
-glyphname = sinY;
+glyphname = "y-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 402, 0}";
 },
 {
 alignment = -1;
-name = sinYa;
+name = "ya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12562,14 +12562,14 @@ width = 635;
 },
 {
 color = 4;
-glyphname = sinR;
+glyphname = "r-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRa;
+name = "ra-sinh";
 transform = "{1, 0, 0, 1, 20, 0}";
 }
 );
@@ -12591,19 +12591,19 @@ width = 561;
 },
 {
 color = 4;
-glyphname = sinL;
+glyphname = "l-sinh";
 lastChange = "2021-09-23 06:00:19 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 370, -69}";
 },
 {
 alignment = -1;
-name = sinLa;
+name = "la-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12612,7 +12612,7 @@ width = 610;
 );
 },
 {
-glyphname = sinV;
+glyphname = "v-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -12722,19 +12722,19 @@ width = 551;
 );
 },
 {
-glyphname = sinSh;
+glyphname = "sh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 460, 0}";
 },
 {
 alignment = -1;
-name = sinSha;
+name = "sha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12743,18 +12743,18 @@ width = 706;
 );
 },
 {
-glyphname = sinSs;
+glyphname = "ss-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 },
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 384, 0}";
 }
 );
@@ -12764,7 +12764,7 @@ width = 628;
 );
 },
 {
-glyphname = sinS;
+glyphname = "s-sinh";
 lastChange = "2026-03-07 15:27:47 +0000";
 layers = (
 {
@@ -12884,19 +12884,19 @@ width = 679;
 );
 },
 {
-glyphname = sinH;
+glyphname = "h-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 467, 0}";
 },
 {
 alignment = -1;
-name = sinHa;
+name = "ha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12905,19 +12905,19 @@ width = 706;
 );
 },
 {
-glyphname = sinLl;
+glyphname = "ll-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 374, 0}";
 },
 {
 alignment = -1;
-name = sinLla;
+name = "lla-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12926,19 +12926,19 @@ width = 609;
 );
 },
 {
-glyphname = sinF;
+glyphname = "f-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 400, 0}";
 },
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12947,19 +12947,19 @@ width = 634;
 );
 },
 {
-glyphname = sinKSs;
+glyphname = "kSs-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 925, 0}";
 },
 {
 alignment = -1;
-name = sinKSsa;
+name = "kSsa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -12968,7 +12968,7 @@ width = 1151;
 );
 },
 {
-glyphname = sinKV;
+glyphname = "kV-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -13154,7 +13154,7 @@ width = 1094;
 );
 },
 {
-glyphname = sinTV;
+glyphname = "tV-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -13361,14 +13361,14 @@ width = 41;
 };
 },
 {
-glyphname = sinTTh;
+glyphname = "tTh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTTha;
+name = "tTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -13388,19 +13388,19 @@ width = 1065;
 );
 },
 {
-glyphname = sinND;
+glyphname = "nD-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 689, 0}";
 },
 {
 alignment = -1;
-name = sinNDa;
+name = "nDa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -13409,7 +13409,7 @@ width = 964;
 );
 },
 {
-glyphname = sinNDh;
+glyphname = "nDh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -13599,7 +13599,7 @@ width = 1100;
 );
 },
 {
-glyphname = sinNV;
+glyphname = "nV-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -13768,14 +13768,14 @@ width = 1068;
 );
 },
 {
-glyphname = sinNTh;
+glyphname = "nTh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNTha;
+name = "nTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -13795,14 +13795,14 @@ width = 1064;
 );
 },
 {
-glyphname = sinDV;
+glyphname = "dV-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinV;
+name = "v-sinh";
 transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
@@ -13841,14 +13841,14 @@ width = 698;
 );
 },
 {
-glyphname = sinDDh;
+glyphname = "dDh-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDh;
+name = "dh-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -13883,14 +13883,14 @@ width = 734;
 );
 },
 {
-glyphname = sinTtTth;
+glyphname = "ttTth-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTtTtha;
+name = "ttTtha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -13910,19 +13910,19 @@ width = 734;
 );
 },
 {
-glyphname = sinKI;
+glyphname = "kI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 740, 6}";
 },
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -13931,7 +13931,7 @@ width = 768;
 );
 },
 {
-glyphname = sinKhI;
+glyphname = "khI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -14067,19 +14067,19 @@ width = 140;
 };
 },
 {
-glyphname = sinGI;
+glyphname = "gI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 672, 6}";
 },
 {
 alignment = -1;
-name = sinGa;
+name = "ga-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14088,19 +14088,19 @@ width = 706;
 );
 },
 {
-glyphname = sinGhI;
+glyphname = "ghI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 681, 7}";
 },
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14109,7 +14109,7 @@ width = 679;
 );
 },
 {
-glyphname = sinNgI;
+glyphname = "ngI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -14300,19 +14300,19 @@ width = 42;
 };
 },
 {
-glyphname = sinNngI;
+glyphname = "nngI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 820, 6}";
 },
 {
 alignment = -1;
-name = sinNnga;
+name = "nnga-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14321,7 +14321,7 @@ width = 857;
 );
 },
 {
-glyphname = sinCI;
+glyphname = "cI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -14432,14 +14432,14 @@ width = 592;
 );
 },
 {
-glyphname = sinChI;
+glyphname = "chI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinCha;
+name = "cha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14467,14 +14467,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJI;
+glyphname = "jI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 transform = "{1, 0, 0, 1, -2, 0}";
 }
 );
@@ -14503,7 +14503,7 @@ width = 627;
 );
 },
 {
-glyphname = sinJhI;
+glyphname = "jhI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -14706,19 +14706,19 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyI;
+glyphname = "nyI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 1051, 6}";
 },
 {
 alignment = -1;
-name = sinNya;
+name = "nya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14727,19 +14727,19 @@ width = 1124;
 );
 },
 {
-glyphname = sinJnyI;
+glyphname = "jnyI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 1005, 6}";
 },
 {
 alignment = -1;
-name = sinJnya;
+name = "jnya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14748,14 +14748,14 @@ width = 1057;
 );
 },
 {
-glyphname = sinNyjI;
+glyphname = "nyjI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyja;
+name = "nyja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -14783,7 +14783,7 @@ width = 778;
 );
 },
 {
-glyphname = sinTtI;
+glyphname = "ttI-sinh";
 lastChange = "2026-03-28 00:17:12 +0000";
 layers = (
 {
@@ -14909,14 +14909,14 @@ width = 140;
 };
 },
 {
-glyphname = sinTthI;
+glyphname = "tthI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTtha;
+name = "ttha-sinh";
 transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
@@ -14956,7 +14956,7 @@ width = 583;
 },
 {
 color = 4;
-glyphname = sinDdI;
+glyphname = "ddI-sinh";
 lastChange = "2021-09-23 06:01:07 +0000";
 layers = (
 {
@@ -15082,14 +15082,14 @@ width = 626;
 );
 },
 {
-glyphname = sinDdhI;
+glyphname = "ddhI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDdha;
+name = "ddha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15127,14 +15127,14 @@ width = 626;
 );
 },
 {
-glyphname = sinNnI;
+glyphname = "nnI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNna;
+name = "nna-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15170,7 +15170,7 @@ width = 974;
 );
 },
 {
-glyphname = sinNnddI;
+glyphname = "nnddI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -15323,19 +15323,19 @@ width = 742;
 );
 },
 {
-glyphname = sinTI;
+glyphname = "tI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 748, 6}";
 },
 {
 alignment = -1;
-name = sinTa;
+name = "ta-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15344,14 +15344,14 @@ width = 762;
 );
 },
 {
-glyphname = sinThI;
+glyphname = "thI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTha;
+name = "tha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15389,14 +15389,14 @@ width = 547;
 );
 },
 {
-glyphname = sinDI;
+glyphname = "dI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDa;
+name = "da-sinh";
 transform = "{1, 0, 0, 1, 4, 0}";
 }
 );
@@ -15431,7 +15431,7 @@ width = 540;
 );
 },
 {
-glyphname = sinDhI;
+glyphname = "dhI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -15542,7 +15542,7 @@ width = 583;
 );
 },
 {
-glyphname = sinNI;
+glyphname = "nI-sinh";
 lastChange = "2026-03-07 15:29:27 +0000";
 layers = (
 {
@@ -15668,14 +15668,14 @@ width = 734;
 );
 },
 {
-glyphname = sinNdI;
+glyphname = "ndI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNda;
+name = "nda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15709,19 +15709,19 @@ width = 686;
 );
 },
 {
-glyphname = sinPI;
+glyphname = "pI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 629, 6}";
 },
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15730,14 +15730,14 @@ width = 622;
 );
 },
 {
-glyphname = sinPhI;
+glyphname = "phI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15775,7 +15775,7 @@ width = 552;
 );
 },
 {
-glyphname = sinBI;
+glyphname = "bI-sinh";
 lastChange = "2021-09-18 05:25:44 +0000";
 layers = (
 {
@@ -15883,19 +15883,19 @@ width = 591;
 );
 },
 {
-glyphname = sinBhI;
+glyphname = "bhI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 719, 6}";
 },
 {
 alignment = -1;
-name = sinBha;
+name = "bha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -15904,7 +15904,7 @@ width = 745;
 );
 },
 {
-glyphname = sinMI;
+glyphname = "mI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -16018,7 +16018,7 @@ width = 576;
 );
 },
 {
-glyphname = sinMbI;
+glyphname = "mbI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -16156,19 +16156,19 @@ width = 588;
 );
 },
 {
-glyphname = sinYI;
+glyphname = "yI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 639, 6}";
 },
 {
 alignment = -1;
-name = sinYa;
+name = "ya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16177,7 +16177,7 @@ width = 635;
 );
 },
 {
-glyphname = sinRI;
+glyphname = "rI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -16270,19 +16270,19 @@ width = 535;
 );
 },
 {
-glyphname = sinLI;
+glyphname = "lI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 624, 6}";
 },
 {
 alignment = -1;
-name = sinLa;
+name = "la-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16302,7 +16302,7 @@ width = 610;
 );
 },
 {
-glyphname = sinVI;
+glyphname = "vI-sinh";
 lastChange = "2021-09-08 06:28:48 +0000";
 layers = (
 {
@@ -16409,19 +16409,19 @@ width = 612;
 );
 },
 {
-glyphname = sinShI;
+glyphname = "shI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 677, 6}";
 },
 {
 alignment = -1;
-name = sinSha;
+name = "sha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16430,19 +16430,19 @@ width = 706;
 );
 },
 {
-glyphname = sinSsI;
+glyphname = "ssI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 632, 6}";
 },
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16451,19 +16451,19 @@ width = 628;
 );
 },
 {
-glyphname = sinSI;
+glyphname = "sI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 682, 7}";
 },
 {
 alignment = -1;
-name = sinSa;
+name = "sa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16472,19 +16472,19 @@ width = 679;
 );
 },
 {
-glyphname = sinHI;
+glyphname = "hI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 677, 6}";
 },
 {
 alignment = -1;
-name = sinHa;
+name = "ha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16493,14 +16493,14 @@ width = 706;
 );
 },
 {
-glyphname = sinLlI;
+glyphname = "llI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinLla;
+name = "lla-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16534,19 +16534,19 @@ width = 609;
 );
 },
 {
-glyphname = sinFI;
+glyphname = "fI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 635, 6}";
 },
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16555,19 +16555,19 @@ width = 634;
 );
 },
 {
-glyphname = sinKSsI;
+glyphname = "kSsI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 1167, 8}";
 },
 {
 alignment = -1;
-name = sinKSsa;
+name = "kSsa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -16576,7 +16576,7 @@ width = 1165;
 );
 },
 {
-glyphname = sinKVI;
+glyphname = "kVI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -16758,7 +16758,7 @@ width = 1094;
 );
 },
 {
-glyphname = sinTVI;
+glyphname = "tVI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -16961,14 +16961,14 @@ width = 41;
 };
 },
 {
-glyphname = sinTThI;
+glyphname = "tThI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTTha;
+name = "tTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -17006,19 +17006,19 @@ width = 1065;
 );
 },
 {
-glyphname = sinNDI;
+glyphname = "nDI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 893, 3}";
 },
 {
 alignment = -1;
-name = sinNDa;
+name = "nDa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -17027,7 +17027,7 @@ width = 964;
 );
 },
 {
-glyphname = sinNDhI;
+glyphname = "nDhI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -17213,7 +17213,7 @@ width = 1100;
 );
 },
 {
-glyphname = sinNVI;
+glyphname = "nVI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -17378,14 +17378,14 @@ width = 1068;
 );
 },
 {
-glyphname = sinNThI;
+glyphname = "nThI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNTha;
+name = "nTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -17423,14 +17423,14 @@ width = 1064;
 );
 },
 {
-glyphname = sinDVI;
+glyphname = "dVI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVI;
+name = "vI-sinh";
 transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
@@ -17469,14 +17469,14 @@ width = 699;
 );
 },
 {
-glyphname = sinDDhI;
+glyphname = "dDhI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDhI;
+name = "dhI-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -17511,14 +17511,14 @@ width = 734;
 );
 },
 {
-glyphname = sinTtTthI;
+glyphname = "ttTthI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTthI;
+name = "tthI-sinh";
 transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
@@ -17553,19 +17553,19 @@ width = 724;
 );
 },
 {
-glyphname = sinKIi;
+glyphname = "kIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 760, 0}";
 },
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -17574,7 +17574,7 @@ width = 768;
 );
 },
 {
-glyphname = sinKhIi;
+glyphname = "khIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -17714,7 +17714,7 @@ width = 140;
 };
 },
 {
-glyphname = sinGIi;
+glyphname = "gIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -17839,19 +17839,19 @@ width = 706;
 );
 },
 {
-glyphname = sinGhIi;
+glyphname = "ghIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 682, 1}";
 },
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -17860,7 +17860,7 @@ width = 679;
 );
 },
 {
-glyphname = sinNgIi;
+glyphname = "ngIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -18037,7 +18037,7 @@ width = 141;
 };
 },
 {
-glyphname = sinNngIi;
+glyphname = "nngIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -18185,7 +18185,7 @@ width = 857;
 );
 },
 {
-glyphname = sinCIi;
+glyphname = "cIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -18306,14 +18306,14 @@ width = 592;
 );
 },
 {
-glyphname = sinChIi;
+glyphname = "chIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinCha;
+name = "cha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -18361,14 +18361,14 @@ width = 629;
 );
 },
 {
-glyphname = sinJIi;
+glyphname = "jIi-sinh";
 lastChange = "2021-09-16 07:20:32 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -18420,7 +18420,7 @@ width = 627;
 );
 },
 {
-glyphname = sinJhIi;
+glyphname = "jhIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -18636,19 +18636,19 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyIi;
+glyphname = "nyIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 1059, 7}";
 },
 {
 alignment = -1;
-name = sinNya;
+name = "nya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -18657,19 +18657,19 @@ width = 1124;
 );
 },
 {
-glyphname = sinJnyIi;
+glyphname = "jnyIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 1029, -35}";
 },
 {
 alignment = -1;
-name = sinJnya;
+name = "jnya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -18678,14 +18678,14 @@ width = 1057;
 );
 },
 {
-glyphname = sinNyjIi;
+glyphname = "nyjIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyja;
+name = "nyja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -18733,7 +18733,7 @@ width = 778;
 );
 },
 {
-glyphname = sinTtIi;
+glyphname = "ttIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -18876,7 +18876,7 @@ width = 140;
 };
 },
 {
-glyphname = sinTthIi;
+glyphname = "tthIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -19051,7 +19051,7 @@ width = 140;
 };
 },
 {
-glyphname = sinDdIi;
+glyphname = "ddIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -19179,7 +19179,7 @@ width = 626;
 );
 },
 {
-glyphname = sinDdhIi;
+glyphname = "ddhIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -19372,14 +19372,14 @@ width = 140;
 };
 },
 {
-glyphname = sinNnIi;
+glyphname = "nnIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNna;
+name = "nna-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -19427,7 +19427,7 @@ width = 974;
 );
 },
 {
-glyphname = sinNnddIi;
+glyphname = "nnddIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -19582,18 +19582,18 @@ width = 742;
 );
 },
 {
-glyphname = sinTIi;
+glyphname = "tIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTa;
+name = "ta-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 766, 0}";
 }
 );
@@ -19603,7 +19603,7 @@ width = 762;
 );
 },
 {
-glyphname = sinThIi;
+glyphname = "thIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -19728,14 +19728,14 @@ width = 606;
 );
 },
 {
-glyphname = sinDIi;
+glyphname = "dIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDa;
+name = "da-sinh";
 transform = "{1, 0, 0, 1, 8, 0}";
 }
 );
@@ -19784,7 +19784,7 @@ width = 544;
 );
 },
 {
-glyphname = sinDhIi;
+glyphname = "dhIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -19897,18 +19897,18 @@ width = 583;
 );
 },
 {
-glyphname = sinNIi;
+glyphname = "nIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNa;
+name = "na-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 735, 0}";
 }
 );
@@ -19918,14 +19918,14 @@ width = 734;
 );
 },
 {
-glyphname = sinNdIi;
+glyphname = "ndIi-sinh";
 lastChange = "2021-09-08 07:05:33 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNda;
+name = "nda-sinh";
 transform = "{1, 0, 0, 1, 0, 3}";
 }
 );
@@ -19978,18 +19978,18 @@ width = 686;
 );
 },
 {
-glyphname = sinPIi;
+glyphname = "pIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 632, 0}";
 }
 );
@@ -19999,7 +19999,7 @@ width = 622;
 );
 },
 {
-glyphname = sinPhIi;
+glyphname = "phIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20137,7 +20137,7 @@ width = 611;
 );
 },
 {
-glyphname = sinBIi;
+glyphname = "bIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20247,7 +20247,7 @@ width = 591;
 );
 },
 {
-glyphname = sinBhIi;
+glyphname = "bhIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20389,7 +20389,7 @@ width = 745;
 );
 },
 {
-glyphname = sinMIi;
+glyphname = "mIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20514,7 +20514,7 @@ width = 576;
 );
 },
 {
-glyphname = sinMbIi;
+glyphname = "mbIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20663,18 +20663,18 @@ width = 588;
 );
 },
 {
-glyphname = sinYIi;
+glyphname = "yIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYa;
+name = "ya-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 643, 0}";
 }
 );
@@ -20684,7 +20684,7 @@ width = 635;
 );
 },
 {
-glyphname = sinRIi;
+glyphname = "rIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20790,14 +20790,14 @@ width = 548;
 );
 },
 {
-glyphname = sinLIi;
+glyphname = "lIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinLa;
+name = "la-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -20854,7 +20854,7 @@ width = 610;
 );
 },
 {
-glyphname = sinVIi;
+glyphname = "vIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -20972,7 +20972,7 @@ width = 556;
 );
 },
 {
-glyphname = sinShIi;
+glyphname = "shIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -21134,18 +21134,18 @@ width = 118;
 };
 },
 {
-glyphname = sinSsIi;
+glyphname = "ssIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 636, 0}";
 }
 );
@@ -21155,18 +21155,18 @@ width = 628;
 );
 },
 {
-glyphname = sinSIi;
+glyphname = "sIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSa;
+name = "sa-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 689, 0}";
 }
 );
@@ -21196,7 +21196,7 @@ width = 118;
 };
 },
 {
-glyphname = sinHIi;
+glyphname = "hIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -21336,14 +21336,14 @@ width = 706;
 );
 },
 {
-glyphname = sinLlIi;
+glyphname = "llIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinLla;
+name = "lla-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -21391,18 +21391,18 @@ width = 609;
 );
 },
 {
-glyphname = sinFIi;
+glyphname = "fIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 642, 0}";
 }
 );
@@ -21412,19 +21412,19 @@ width = 634;
 );
 },
 {
-glyphname = sinKSsIi;
+glyphname = "kSsIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 1180, -24}";
 },
 {
 alignment = -1;
-name = sinKSsa;
+name = "kSsa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -21433,7 +21433,7 @@ width = 1165;
 );
 },
 {
-glyphname = sinKVIi;
+glyphname = "kVIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -21633,7 +21633,7 @@ width = 1108;
 );
 },
 {
-glyphname = sinTVIi;
+glyphname = "tVIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -21856,14 +21856,14 @@ width = 41;
 };
 },
 {
-glyphname = sinTThIi;
+glyphname = "tThIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTTha;
+name = "tTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -21926,18 +21926,18 @@ width = 1067;
 );
 },
 {
-glyphname = sinNDIi;
+glyphname = "nDIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNDa;
+name = "nDa-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 897, -5}";
 }
 );
@@ -21947,7 +21947,7 @@ width = 964;
 );
 },
 {
-glyphname = sinNDhIi;
+glyphname = "nDhIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -22144,7 +22144,7 @@ width = 1104;
 );
 },
 {
-glyphname = sinNVIi;
+glyphname = "nVIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -22327,14 +22327,14 @@ width = 1082;
 );
 },
 {
-glyphname = sinNThIi;
+glyphname = "nThIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNTha;
+name = "nTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -22397,14 +22397,14 @@ width = 1067;
 );
 },
 {
-glyphname = sinDVIi;
+glyphname = "dVIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVIi;
+name = "vIi-sinh";
 transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
@@ -22443,14 +22443,14 @@ width = 699;
 );
 },
 {
-glyphname = sinDDhIi;
+glyphname = "dDhIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDhIi;
+name = "dhIi-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -22485,14 +22485,14 @@ width = 739;
 );
 },
 {
-glyphname = sinTtTthIi;
+glyphname = "ttTthIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTthIi;
+name = "tthIi-sinh";
 transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
@@ -22527,7 +22527,7 @@ width = 782;
 );
 },
 {
-glyphname = sinKU;
+glyphname = "kU-sinh";
 lastChange = "2021-09-13 11:07:58 +0000";
 layers = (
 {
@@ -22660,7 +22660,7 @@ width = 768;
 );
 },
 {
-glyphname = sinKhU;
+glyphname = "khU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -22808,7 +22808,7 @@ width = 42;
 };
 },
 {
-glyphname = sinGU;
+glyphname = "gU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -22918,14 +22918,14 @@ width = 706;
 );
 },
 {
-glyphname = sinGhU;
+glyphname = "ghU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -22963,14 +22963,14 @@ width = 679;
 );
 },
 {
-glyphname = sinNngU;
+glyphname = "nngU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGU;
+name = "gU-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -23005,19 +23005,19 @@ width = 857;
 );
 },
 {
-glyphname = sinCU;
+glyphname = "cU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 600, 0}";
 },
 {
 alignment = -1;
-name = sinCa;
+name = "ca-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23026,14 +23026,14 @@ width = 593;
 );
 },
 {
-glyphname = sinChU;
+glyphname = "chU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinCha;
+name = "cha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23071,14 +23071,14 @@ width = 629;
 );
 },
 {
-glyphname = sinJU;
+glyphname = "jU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23116,14 +23116,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJhU;
+glyphname = "jhU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJha;
+name = "jha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23161,7 +23161,7 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyU;
+glyphname = "nyU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -23336,7 +23336,7 @@ width = 1065;
 );
 },
 {
-glyphname = sinJnyU;
+glyphname = "jnyU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -23479,14 +23479,14 @@ width = 1045;
 );
 },
 {
-glyphname = sinNyjU;
+glyphname = "nyjU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyja;
+name = "nyja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23524,19 +23524,19 @@ width = 778;
 );
 },
 {
-glyphname = sinTtU;
+glyphname = "ttU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 560, 0}";
 },
 {
 alignment = -1;
-name = sinTta;
+name = "tta-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23577,14 +23577,14 @@ width = 140;
 };
 },
 {
-glyphname = sinTthU;
+glyphname = "tthU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTtha;
+name = "ttha-sinh";
 transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
@@ -23623,14 +23623,14 @@ width = 583;
 );
 },
 {
-glyphname = sinDdU;
+glyphname = "ddU-sinh";
 lastChange = "2026-03-28 00:15:18 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDda;
+name = "dda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23668,14 +23668,14 @@ width = 626;
 );
 },
 {
-glyphname = sinDdhU;
+glyphname = "ddhU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDdha;
+name = "ddha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23713,14 +23713,14 @@ width = 626;
 );
 },
 {
-glyphname = sinNnU;
+glyphname = "nnU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNna;
+name = "nna-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23758,14 +23758,14 @@ width = 974;
 );
 },
 {
-glyphname = sinNnddU;
+glyphname = "nnddU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNndda;
+name = "nndda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23803,7 +23803,7 @@ width = 740;
 );
 },
 {
-glyphname = sinTU;
+glyphname = "tU-sinh";
 lastChange = "2021-09-13 10:53:55 +0000";
 layers = (
 {
@@ -23917,19 +23917,19 @@ width = 762;
 );
 },
 {
-glyphname = sinThU;
+glyphname = "thU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 554, 0}";
 },
 {
 alignment = -1;
-name = sinTha;
+name = "tha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -23938,7 +23938,7 @@ width = 547;
 );
 },
 {
-glyphname = sinDU;
+glyphname = "dU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -24020,14 +24020,14 @@ width = 172;
 };
 },
 {
-glyphname = sinDhU;
+glyphname = "dhU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDha;
+name = "dha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24065,14 +24065,14 @@ width = 583;
 );
 },
 {
-glyphname = sinNU;
+glyphname = "nU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNa;
+name = "na-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24110,14 +24110,14 @@ width = 734;
 );
 },
 {
-glyphname = sinNdU;
+glyphname = "ndU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDU;
+name = "dU-sinh";
 transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
@@ -24156,14 +24156,14 @@ width = 626;
 );
 },
 {
-glyphname = sinPU;
+glyphname = "pU-sinh";
 lastChange = "2021-09-13 13:21:37 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24201,19 +24201,19 @@ width = 622;
 );
 },
 {
-glyphname = sinPhU;
+glyphname = "phU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 559, 0}";
 },
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24222,14 +24222,14 @@ width = 552;
 );
 },
 {
-glyphname = sinBU;
+glyphname = "bU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBa;
+name = "ba-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24267,7 +24267,7 @@ width = 591;
 );
 },
 {
-glyphname = sinBhU;
+glyphname = "bhU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -24386,14 +24386,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMU;
+glyphname = "mU-sinh";
 lastChange = "2021-09-16 07:10:23 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMa;
+name = "ma-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24431,14 +24431,14 @@ width = 576;
 );
 },
 {
-glyphname = sinMbU;
+glyphname = "mbU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMba;
+name = "mba-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24476,14 +24476,14 @@ width = 588;
 );
 },
 {
-glyphname = sinYU;
+glyphname = "yU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYa;
+name = "ya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24521,19 +24521,19 @@ width = 635;
 );
 },
 {
-glyphname = sinRU;
+glyphname = "rU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAe;
+name = "aesign-sinh";
 transform = "{1, 0, 0, 1, 519, 0}";
 },
 {
 alignment = -1;
-name = sinRa;
+name = "ra-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24542,7 +24542,7 @@ width = 782;
 );
 },
 {
-glyphname = sinLU;
+glyphname = "lU-sinh";
 lastChange = "2021-09-13 13:21:56 +0000";
 layers = (
 {
@@ -24649,19 +24649,19 @@ width = 615;
 );
 },
 {
-glyphname = sinVU;
+glyphname = "vU-sinh";
 lastChange = "2021-09-08 06:26:15 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 581, 0}";
 },
 {
 alignment = -1;
-name = sinVa;
+name = "va-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24670,7 +24670,7 @@ width = 594;
 );
 },
 {
-glyphname = sinShU;
+glyphname = "shU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -24787,14 +24787,14 @@ width = 706;
 );
 },
 {
-glyphname = sinSsU;
+glyphname = "ssU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24832,14 +24832,14 @@ width = 628;
 );
 },
 {
-glyphname = sinSU;
+glyphname = "sU-sinh";
 lastChange = "2021-09-08 06:38:29 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSa;
+name = "sa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24897,14 +24897,14 @@ width = 10;
 };
 },
 {
-glyphname = sinHU;
+glyphname = "hU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinHa;
+name = "ha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -24942,14 +24942,14 @@ width = 706;
 );
 },
 {
-glyphname = sinLlU;
+glyphname = "llU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 transform = "{1, 0, 0, 1, 149, 0}";
 }
 );
@@ -24988,14 +24988,14 @@ width = 701;
 );
 },
 {
-glyphname = sinFU;
+glyphname = "fU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25033,14 +25033,14 @@ width = 634;
 );
 },
 {
-glyphname = sinKSsU;
+glyphname = "kSsU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKSsa;
+name = "kSsa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25078,19 +25078,19 @@ width = 1165;
 );
 },
 {
-glyphname = sinKVU;
+glyphname = "kVU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 1101, 0}";
 },
 {
 alignment = -1;
-name = sinKVa;
+name = "kVa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25099,19 +25099,19 @@ width = 1094;
 );
 },
 {
-glyphname = sinTVU;
+glyphname = "tVU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 1079, 0}";
 },
 {
 alignment = -1;
-name = sinTVa;
+name = "tVa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25120,19 +25120,19 @@ width = 1072;
 );
 },
 {
-glyphname = sinTThU;
+glyphname = "tThU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 1072, 0}";
 },
 {
 alignment = -1;
-name = sinTTha;
+name = "tTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25141,7 +25141,7 @@ width = 1065;
 );
 },
 {
-glyphname = sinNDU;
+glyphname = "nDU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -25270,14 +25270,14 @@ width = 903;
 );
 },
 {
-glyphname = sinNDhU;
+glyphname = "nDhU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNDha;
+name = "nDha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25315,19 +25315,19 @@ width = 1100;
 );
 },
 {
-glyphname = sinNVU;
+glyphname = "nVU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 1075, 0}";
 },
 {
 alignment = -1;
-name = sinNVa;
+name = "nVa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25336,19 +25336,19 @@ width = 1068;
 );
 },
 {
-glyphname = sinNThU;
+glyphname = "nThU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraU;
+name = "usign-sinh";
 transform = "{1, 0, 0, 1, 1071, 0}";
 },
 {
 alignment = -1;
-name = sinNTha;
+name = "nTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -25357,14 +25357,14 @@ width = 1064;
 );
 },
 {
-glyphname = sinDVU;
+glyphname = "dVU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVU;
+name = "vU-sinh";
 transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
@@ -25403,14 +25403,14 @@ width = 701;
 );
 },
 {
-glyphname = sinDDhU;
+glyphname = "dDhU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDhU;
+name = "dhU-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -25445,14 +25445,14 @@ width = 734;
 );
 },
 {
-glyphname = sinTtTthU;
+glyphname = "ttTthU-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTthU;
+name = "tthU-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -25487,7 +25487,7 @@ width = 734;
 );
 },
 {
-glyphname = sinKUu;
+glyphname = "kUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -25682,7 +25682,7 @@ width = 40;
 };
 },
 {
-glyphname = sinKhUu;
+glyphname = "khUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -25852,7 +25852,7 @@ width = 140;
 };
 },
 {
-glyphname = sinGUu;
+glyphname = "gUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -25996,14 +25996,14 @@ width = 40;
 };
 },
 {
-glyphname = sinGhUu;
+glyphname = "ghUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26055,14 +26055,14 @@ width = 679;
 );
 },
 {
-glyphname = sinNngUu;
+glyphname = "nngUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGUu;
+name = "gUu-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -26097,19 +26097,19 @@ width = 901;
 );
 },
 {
-glyphname = sinCUu;
+glyphname = "cUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 596, 0}";
 },
 {
 alignment = -1;
-name = sinCa;
+name = "ca-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26118,14 +26118,14 @@ width = 593;
 );
 },
 {
-glyphname = sinChUu;
+glyphname = "chUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinCha;
+name = "cha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26177,14 +26177,14 @@ width = 629;
 );
 },
 {
-glyphname = sinJUu;
+glyphname = "jUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26236,14 +26236,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJhUu;
+glyphname = "jhUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJha;
+name = "jha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26295,7 +26295,7 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyUu;
+glyphname = "nyUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -26486,7 +26486,7 @@ width = 1065;
 );
 },
 {
-glyphname = sinJnyUu;
+glyphname = "jnyUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -26645,14 +26645,14 @@ width = 1045;
 );
 },
 {
-glyphname = sinNyjUu;
+glyphname = "nyjUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyja;
+name = "nyja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26704,19 +26704,19 @@ width = 778;
 );
 },
 {
-glyphname = sinTtUu;
+glyphname = "ttUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 557, 0}";
 },
 {
 alignment = -1;
-name = sinTta;
+name = "tta-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26761,14 +26761,14 @@ width = 140;
 };
 },
 {
-glyphname = sinTthUu;
+glyphname = "tthUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTtha;
+name = "ttha-sinh";
 transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
@@ -26821,14 +26821,14 @@ width = 583;
 );
 },
 {
-glyphname = sinDdUu;
+glyphname = "ddUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDda;
+name = "dda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26880,14 +26880,14 @@ width = 626;
 );
 },
 {
-glyphname = sinDdhUu;
+glyphname = "ddhUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDdha;
+name = "ddha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26939,14 +26939,14 @@ width = 626;
 );
 },
 {
-glyphname = sinNnUu;
+glyphname = "nnUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNna;
+name = "nna-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -26998,14 +26998,14 @@ width = 974;
 );
 },
 {
-glyphname = sinNnddUu;
+glyphname = "nnddUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNndda;
+name = "nndda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27057,7 +27057,7 @@ width = 740;
 );
 },
 {
-glyphname = sinTUu;
+glyphname = "tUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -27180,19 +27180,19 @@ width = 797;
 );
 },
 {
-glyphname = sinThUu;
+glyphname = "thUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 551, 0}";
 },
 {
 alignment = -1;
-name = sinTha;
+name = "tha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27201,7 +27201,7 @@ width = 547;
 );
 },
 {
-glyphname = sinDUu;
+glyphname = "dUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -27323,14 +27323,14 @@ width = 140;
 };
 },
 {
-glyphname = sinDhUu;
+glyphname = "dhUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDha;
+name = "dha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27382,14 +27382,14 @@ width = 583;
 );
 },
 {
-glyphname = sinNUu;
+glyphname = "nUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNa;
+name = "na-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27441,14 +27441,14 @@ width = 734;
 );
 },
 {
-glyphname = sinNdUu;
+glyphname = "ndUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDUu;
+name = "dUu-sinh";
 transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
@@ -27487,14 +27487,14 @@ width = 626;
 );
 },
 {
-glyphname = sinPUu;
+glyphname = "pUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27546,19 +27546,19 @@ width = 622;
 );
 },
 {
-glyphname = sinPhUu;
+glyphname = "phUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 555, 0}";
 },
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27567,14 +27567,14 @@ width = 552;
 );
 },
 {
-glyphname = sinBUu;
+glyphname = "bUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBa;
+name = "ba-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27626,7 +27626,7 @@ width = 591;
 );
 },
 {
-glyphname = sinBhUu;
+glyphname = "bhUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -27759,14 +27759,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMUu;
+glyphname = "mUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMa;
+name = "ma-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27818,14 +27818,14 @@ width = 576;
 );
 },
 {
-glyphname = sinMbUu;
+glyphname = "mbUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMba;
+name = "mba-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27877,14 +27877,14 @@ width = 588;
 );
 },
 {
-glyphname = sinYUu;
+glyphname = "yUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYa;
+name = "ya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27936,19 +27936,19 @@ width = 635;
 );
 },
 {
-glyphname = sinRUu;
+glyphname = "rUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAae;
+name = "aaesign-sinh";
 transform = "{1, 0, 0, 1, 517, 0}";
 },
 {
 alignment = -1;
-name = sinRa;
+name = "ra-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -27957,7 +27957,7 @@ width = 778;
 );
 },
 {
-glyphname = sinLUu;
+glyphname = "lUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -28138,19 +28138,19 @@ width = 143;
 };
 },
 {
-glyphname = sinVUu;
+glyphname = "vUu-sinh";
 lastChange = "2021-09-08 06:26:35 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 578, 0}";
 },
 {
 alignment = -1;
-name = sinVa;
+name = "va-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28159,7 +28159,7 @@ width = 604;
 );
 },
 {
-glyphname = sinShUu;
+glyphname = "shUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -28281,14 +28281,14 @@ width = 706;
 );
 },
 {
-glyphname = sinSsUu;
+glyphname = "ssUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28340,14 +28340,14 @@ width = 628;
 );
 },
 {
-glyphname = sinSUu;
+glyphname = "sUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSa;
+name = "sa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28413,14 +28413,14 @@ width = 140;
 };
 },
 {
-glyphname = sinHUu;
+glyphname = "hUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinHa;
+name = "ha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28472,19 +28472,19 @@ width = 706;
 );
 },
 {
-glyphname = sinLlUu;
+glyphname = "llUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraAae;
+name = "aaesign-sinh";
 transform = "{1, 0, 0, 1, 683, 0}";
 },
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 transform = "{1, 0, 0, 1, 149, 0}";
 }
 );
@@ -28523,14 +28523,14 @@ width = 960;
 );
 },
 {
-glyphname = sinFUu;
+glyphname = "fUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28582,14 +28582,14 @@ width = 634;
 );
 },
 {
-glyphname = sinKSsUu;
+glyphname = "kSsUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKSsa;
+name = "kSsa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28641,19 +28641,19 @@ width = 1165;
 );
 },
 {
-glyphname = sinKVUu;
+glyphname = "kVUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 1098, 0}";
 },
 {
 alignment = -1;
-name = sinKVa;
+name = "kVa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28662,19 +28662,19 @@ width = 1094;
 );
 },
 {
-glyphname = sinTVUu;
+glyphname = "tVUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 1076, 0}";
 },
 {
 alignment = -1;
-name = sinTVa;
+name = "tVa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28683,19 +28683,19 @@ width = 1072;
 );
 },
 {
-glyphname = sinTThUu;
+glyphname = "tThUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 1068, 0}";
 },
 {
 alignment = -1;
-name = sinTTha;
+name = "tTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28704,7 +28704,7 @@ width = 1065;
 );
 },
 {
-glyphname = sinNDUu;
+glyphname = "nDUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -28849,14 +28849,14 @@ width = 903;
 );
 },
 {
-glyphname = sinNDhUu;
+glyphname = "nDhUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNDha;
+name = "nDha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28908,19 +28908,19 @@ width = 1100;
 );
 },
 {
-glyphname = sinNVUu;
+glyphname = "nVUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 1072, 0}";
 },
 {
 alignment = -1;
-name = sinNVa;
+name = "nVa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28929,19 +28929,19 @@ width = 1068;
 );
 },
 {
-glyphname = sinNThUu;
+glyphname = "nThUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraUu;
+name = "uusign-sinh";
 transform = "{1, 0, 0, 1, 1068, 0}";
 },
 {
 alignment = -1;
-name = sinNTha;
+name = "nTha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -28950,14 +28950,14 @@ width = 1064;
 );
 },
 {
-glyphname = sinDVUu;
+glyphname = "dVUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVUu;
+name = "vUu-sinh";
 transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
@@ -28996,14 +28996,14 @@ width = 701;
 );
 },
 {
-glyphname = sinDDhUu;
+glyphname = "dDhUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDhUu;
+name = "dhUu-sinh";
 transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
@@ -29038,14 +29038,14 @@ width = 734;
 );
 },
 {
-glyphname = sinTtTthUu;
+glyphname = "ttTthUu-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTthUu;
+name = "tthUu-sinh";
 transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
@@ -29080,14 +29080,14 @@ width = 724;
 );
 },
 {
-glyphname = sinRAe;
+glyphname = "rAe-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRa;
+name = "ra-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29156,14 +29156,14 @@ width = 40;
 };
 },
 {
-glyphname = sinRAae;
+glyphname = "rAae-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRa;
+name = "ra-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29242,14 +29242,14 @@ width = 40;
 };
 },
 {
-glyphname = sinKRa;
+glyphname = "kRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29290,14 +29290,14 @@ width = 768;
 );
 },
 {
-glyphname = sinKhRa;
+glyphname = "khRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKha;
+name = "kha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29340,14 +29340,14 @@ width = 594;
 );
 },
 {
-glyphname = sinGRa;
+glyphname = "gRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGa;
+name = "ga-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29388,14 +29388,14 @@ width = 706;
 );
 },
 {
-glyphname = sinGhRa;
+glyphname = "ghRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29436,19 +29436,19 @@ width = 679;
 );
 },
 {
-glyphname = sinCRa;
+glyphname = "cRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 619, 0}";
 },
 {
 alignment = -1;
-name = sinCa;
+name = "ca-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29457,14 +29457,14 @@ width = 595;
 );
 },
 {
-glyphname = sinJRa;
+glyphname = "jRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29501,14 +29501,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJhRa;
+glyphname = "jhRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJha;
+name = "jha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29551,7 +29551,7 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyRa;
+glyphname = "nyRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -29743,7 +29743,7 @@ width = 1114;
 );
 },
 {
-glyphname = sinJnyRa;
+glyphname = "jnyRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -29903,14 +29903,14 @@ width = 1051;
 );
 },
 {
-glyphname = sinNyjRa;
+glyphname = "nyjRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyja;
+name = "nyja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -29947,19 +29947,19 @@ width = 778;
 );
 },
 {
-glyphname = sinTtRa;
+glyphname = "ttRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 582, 0}";
 },
 {
 alignment = -1;
-name = sinTta;
+name = "tta-sinh";
 transform = "{1, 0, 0, 1, 3, 0}";
 }
 );
@@ -29969,14 +29969,14 @@ width = 557;
 );
 },
 {
-glyphname = sinDdRa;
+glyphname = "ddRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDda;
+name = "dda-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30019,14 +30019,14 @@ width = 626;
 );
 },
 {
-glyphname = sinTRa;
+glyphname = "tRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTa;
+name = "ta-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30067,7 +30067,7 @@ width = 762;
 );
 },
 {
-glyphname = sinDRa;
+glyphname = "dRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -30150,14 +30150,14 @@ width = 529;
 );
 },
 {
-glyphname = sinDhRa;
+glyphname = "dhRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDha;
+name = "dha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30200,7 +30200,7 @@ width = 583;
 );
 },
 {
-glyphname = sinNdRa;
+glyphname = "ndRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -30310,14 +30310,14 @@ width = 686;
 );
 },
 {
-glyphname = sinPRa;
+glyphname = "pRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30354,14 +30354,14 @@ width = 622;
 );
 },
 {
-glyphname = sinBRa;
+glyphname = "bRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBa;
+name = "ba-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30404,14 +30404,14 @@ width = 591;
 );
 },
 {
-glyphname = sinBhRa;
+glyphname = "bhRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBha;
+name = "bha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30452,14 +30452,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMRa;
+glyphname = "mRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMa;
+name = "ma-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30496,19 +30496,19 @@ width = 576;
 );
 },
 {
-glyphname = sinVRa;
+glyphname = "vRa-sinh";
 lastChange = "2021-09-08 06:26:31 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 613, 0}";
 },
 {
 alignment = -1;
-name = sinVa;
+name = "va-sinh";
 transform = "{1, 0, 0, 1, 3, 0}";
 }
 );
@@ -30518,14 +30518,14 @@ width = 608;
 );
 },
 {
-glyphname = sinShRa;
+glyphname = "shRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSha;
+name = "sha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30566,14 +30566,14 @@ width = 706;
 );
 },
 {
-glyphname = sinSsRa;
+glyphname = "ssRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30610,14 +30610,14 @@ width = 628;
 );
 },
 {
-glyphname = sinSRa;
+glyphname = "sRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSa;
+name = "sa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30658,14 +30658,14 @@ width = 679;
 );
 },
 {
-glyphname = sinHRa;
+glyphname = "hRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinHa;
+name = "ha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30706,14 +30706,14 @@ width = 706;
 );
 },
 {
-glyphname = sinFRa;
+glyphname = "fRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30750,7 +30750,7 @@ width = 634;
 );
 },
 {
-glyphname = sinNDRa;
+glyphname = "nDRa-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -30896,19 +30896,19 @@ width = 953;
 );
 },
 {
-glyphname = sinKR;
+glyphname = "kR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 540, 0}";
 },
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30949,14 +30949,14 @@ width = 768;
 );
 },
 {
-glyphname = sinKhR;
+glyphname = "khR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKh;
+name = "kh-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -30999,14 +30999,14 @@ width = 593;
 );
 },
 {
-glyphname = sinGR;
+glyphname = "gR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinG;
+name = "g-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31047,19 +31047,19 @@ width = 706;
 );
 },
 {
-glyphname = sinGhR;
+glyphname = "ghR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 442, 0}";
 },
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31100,19 +31100,19 @@ width = 679;
 );
 },
 {
-glyphname = sinCR;
+glyphname = "cR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 604, 0}";
 },
 {
 alignment = -1;
-name = sinC;
+name = "c-sinh";
 transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
@@ -31122,14 +31122,14 @@ width = 592;
 );
 },
 {
-glyphname = sinJR;
+glyphname = "jR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJ;
+name = "j-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31166,14 +31166,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJhR;
+glyphname = "jhR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJh;
+name = "jh-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31216,19 +31216,19 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyR;
+glyphname = "nyR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 850, 0}";
 },
 {
 alignment = -1;
-name = sinNyRa;
+name = "nyRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31237,19 +31237,19 @@ width = 1124;
 );
 },
 {
-glyphname = sinJnyR;
+glyphname = "jnyR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 783, 0}";
 },
 {
 alignment = -1;
-name = sinJnyRa;
+name = "jnyRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31258,14 +31258,14 @@ width = 1051;
 );
 },
 {
-glyphname = sinNyjR;
+glyphname = "nyjR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNyj;
+name = "nyj-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31302,19 +31302,19 @@ width = 778;
 );
 },
 {
-glyphname = sinTtR;
+glyphname = "ttR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 582, 0}";
 },
 {
 alignment = -1;
-name = sinTt;
+name = "tt-sinh";
 transform = "{1, 0, 0, 1, -1, 0}";
 }
 );
@@ -31324,14 +31324,14 @@ width = 557;
 );
 },
 {
-glyphname = sinDdR;
+glyphname = "ddR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDd;
+name = "dd-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31374,14 +31374,14 @@ width = 626;
 );
 },
 {
-glyphname = sinTR;
+glyphname = "tR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinT;
+name = "t-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31422,19 +31422,19 @@ width = 762;
 );
 },
 {
-glyphname = sinDR;
+glyphname = "dR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 265, 0}";
 },
 {
 alignment = -1;
-name = sinDRa;
+name = "dRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31443,14 +31443,14 @@ width = 529;
 );
 },
 {
-glyphname = sinDhR;
+glyphname = "dhR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDh;
+name = "dh-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31493,14 +31493,14 @@ width = 583;
 );
 },
 {
-glyphname = sinPR;
+glyphname = "pR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinP;
+name = "p-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31537,14 +31537,14 @@ width = 622;
 );
 },
 {
-glyphname = sinBR;
+glyphname = "bR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinB;
+name = "b-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31587,14 +31587,14 @@ width = 591;
 );
 },
 {
-glyphname = sinBhR;
+glyphname = "bhR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBh;
+name = "bh-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31635,14 +31635,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMR;
+glyphname = "mR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinM;
+name = "m-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31679,19 +31679,19 @@ width = 576;
 );
 },
 {
-glyphname = sinVR;
+glyphname = "vR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 583, 0}";
 },
 {
 alignment = -1;
-name = sinV;
+name = "v-sinh";
 transform = "{1, 0, 0, 1, 4, 0}";
 }
 );
@@ -31701,14 +31701,14 @@ width = 559;
 );
 },
 {
-glyphname = sinShR;
+glyphname = "shR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSh;
+name = "sh-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31749,14 +31749,14 @@ width = 706;
 );
 },
 {
-glyphname = sinSsR;
+glyphname = "ssR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSs;
+name = "ss-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31793,14 +31793,14 @@ width = 628;
 );
 },
 {
-glyphname = sinSR;
+glyphname = "sR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinS;
+name = "s-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31841,14 +31841,14 @@ width = 679;
 );
 },
 {
-glyphname = sinHR;
+glyphname = "hR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinH;
+name = "h-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31889,14 +31889,14 @@ width = 706;
 );
 },
 {
-glyphname = sinFR;
+glyphname = "fR-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinF;
+name = "f-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31933,14 +31933,14 @@ width = 634;
 );
 },
 {
-glyphname = sinKRI;
+glyphname = "kRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKI;
+name = "kI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -31981,14 +31981,14 @@ width = 768;
 );
 },
 {
-glyphname = sinKhRI;
+glyphname = "khRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKhI;
+name = "khI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32031,14 +32031,14 @@ width = 594;
 );
 },
 {
-glyphname = sinGRI;
+glyphname = "gRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGI;
+name = "gI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32079,14 +32079,14 @@ width = 706;
 );
 },
 {
-glyphname = sinGhRI;
+glyphname = "ghRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGhI;
+name = "ghI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32127,19 +32127,19 @@ width = 687;
 );
 },
 {
-glyphname = sinCRI;
+glyphname = "cRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 620, 0}";
 },
 {
 alignment = -1;
-name = sinCI;
+name = "cI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32148,14 +32148,14 @@ width = 595;
 );
 },
 {
-glyphname = sinJRI;
+glyphname = "jRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJI;
+name = "jI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32192,14 +32192,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJhRI;
+glyphname = "jhRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJhI;
+name = "jhI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32242,19 +32242,19 @@ width = 1110;
 );
 },
 {
-glyphname = sinNyRI;
+glyphname = "nyRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 1051, 6}";
 },
 {
 alignment = -1;
-name = sinNyRa;
+name = "nyRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32263,19 +32263,19 @@ width = 1117;
 );
 },
 {
-glyphname = sinJnyRI;
+glyphname = "jnyRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 1005, 6}";
 },
 {
 alignment = -1;
-name = sinJnyRa;
+name = "jnyRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32284,19 +32284,19 @@ width = 1051;
 );
 },
 {
-glyphname = sinTtRI;
+glyphname = "ttRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 582, 0}";
 },
 {
 alignment = -1;
-name = sinTtI;
+name = "ttI-sinh";
 transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
@@ -32306,14 +32306,14 @@ width = 557;
 );
 },
 {
-glyphname = sinDdRI;
+glyphname = "ddRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDdI;
+name = "ddI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32356,14 +32356,14 @@ width = 626;
 );
 },
 {
-glyphname = sinTRI;
+glyphname = "tRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTI;
+name = "tI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32404,14 +32404,14 @@ width = 762;
 );
 },
 {
-glyphname = sinDRI;
+glyphname = "dRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDRa;
+name = "dRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32445,14 +32445,14 @@ width = 529;
 );
 },
 {
-glyphname = sinDhRI;
+glyphname = "dhRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDhI;
+name = "dhI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32495,14 +32495,14 @@ width = 583;
 );
 },
 {
-glyphname = sinPRI;
+glyphname = "pRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPI;
+name = "pI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32539,14 +32539,14 @@ width = 622;
 );
 },
 {
-glyphname = sinBRI;
+glyphname = "bRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBI;
+name = "bI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32589,14 +32589,14 @@ width = 591;
 );
 },
 {
-glyphname = sinBhRI;
+glyphname = "bhRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBhI;
+name = "bhI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32637,14 +32637,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMRI;
+glyphname = "mRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMI;
+name = "mI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32681,19 +32681,19 @@ width = 576;
 );
 },
 {
-glyphname = sinVRI;
+glyphname = "vRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 583, 0}";
 },
 {
 alignment = -1;
-name = sinVI;
+name = "vI-sinh";
 transform = "{1, 0, 0, 1, 4, 0}";
 }
 );
@@ -32703,14 +32703,14 @@ width = 559;
 );
 },
 {
-glyphname = sinShRI;
+glyphname = "shRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinShI;
+name = "shI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32751,14 +32751,14 @@ width = 706;
 );
 },
 {
-glyphname = sinSsRI;
+glyphname = "ssRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsI;
+name = "ssI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32795,14 +32795,14 @@ width = 628;
 );
 },
 {
-glyphname = sinSRI;
+glyphname = "sRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSI;
+name = "sI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32843,14 +32843,14 @@ width = 679;
 );
 },
 {
-glyphname = sinHRI;
+glyphname = "hRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinHI;
+name = "hI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32891,14 +32891,14 @@ width = 706;
 );
 },
 {
-glyphname = sinFRI;
+glyphname = "fRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinFI;
+name = "fI-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32935,19 +32935,19 @@ width = 634;
 );
 },
 {
-glyphname = sinNDRI;
+glyphname = "nDRI-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraI;
+name = "isign-sinh";
 transform = "{1, 0, 0, 1, 893, 6}";
 },
 {
 alignment = -1;
-name = sinNDRa;
+name = "nDRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -32956,14 +32956,14 @@ width = 953;
 );
 },
 {
-glyphname = sinKRIi;
+glyphname = "kRIi-sinh";
 lastChange = "2026-03-07 16:19:11 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33049,14 +33049,14 @@ width = 768;
 );
 },
 {
-glyphname = sinKhRIi;
+glyphname = "khRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinKhIi;
+name = "khIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33103,14 +33103,14 @@ width = 594;
 );
 },
 {
-glyphname = sinGRIi;
+glyphname = "gRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGIi;
+name = "gIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33157,14 +33157,14 @@ width = 706;
 );
 },
 {
-glyphname = sinGhRIi;
+glyphname = "ghRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinGhIi;
+name = "ghIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33205,19 +33205,19 @@ width = 679;
 );
 },
 {
-glyphname = sinCRIi;
+glyphname = "cRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 620, 0}";
 },
 {
 alignment = -1;
-name = sinCIi;
+name = "cIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33226,14 +33226,14 @@ width = 595;
 );
 },
 {
-glyphname = sinJRIi;
+glyphname = "jRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJIi;
+name = "jIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33270,14 +33270,14 @@ width = 627;
 );
 },
 {
-glyphname = sinJhRIi;
+glyphname = "jhRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJhIi;
+name = "jhIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33324,19 +33324,19 @@ width = 1111;
 );
 },
 {
-glyphname = sinNyRIi;
+glyphname = "nyRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 1057, 7}";
 },
 {
 alignment = -1;
-name = sinNyRa;
+name = "nyRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33345,18 +33345,18 @@ width = 1124;
 );
 },
 {
-glyphname = sinJnyRIi;
+glyphname = "jnyRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJnyRa;
+name = "jnyRa-sinh";
 },
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 1037, -35}";
 }
 );
@@ -33366,19 +33366,19 @@ width = 1051;
 );
 },
 {
-glyphname = sinTtRIi;
+glyphname = "ttRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 583, 0}";
 },
 {
 alignment = -1;
-name = sinTtIi;
+name = "ttIi-sinh";
 transform = "{1, 0, 0, 1, 5, 0}";
 }
 );
@@ -33388,14 +33388,14 @@ width = 558;
 );
 },
 {
-glyphname = sinDdRIi;
+glyphname = "ddRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDdIi;
+name = "ddIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33442,14 +33442,14 @@ width = 626;
 );
 },
 {
-glyphname = sinTRIi;
+glyphname = "tRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTIi;
+name = "tIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33490,14 +33490,14 @@ width = 762;
 );
 },
 {
-glyphname = sinDRIi;
+glyphname = "dRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDRa;
+name = "dRa-sinh";
 transform = "{1, 0, 0, 1, 8, 0}";
 }
 );
@@ -33546,14 +33546,14 @@ width = 541;
 );
 },
 {
-glyphname = sinDhRIi;
+glyphname = "dhRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinDhIi;
+name = "dhIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33600,14 +33600,14 @@ width = 583;
 );
 },
 {
-glyphname = sinPRIi;
+glyphname = "pRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPIi;
+name = "pIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33644,14 +33644,14 @@ width = 622;
 );
 },
 {
-glyphname = sinBRIi;
+glyphname = "bRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBIi;
+name = "bIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33698,14 +33698,14 @@ width = 591;
 );
 },
 {
-glyphname = sinBhRIi;
+glyphname = "bhRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinBhIi;
+name = "bhIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33752,14 +33752,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMRIi;
+glyphname = "mRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMIi;
+name = "mIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33806,19 +33806,19 @@ width = 576;
 );
 },
 {
-glyphname = sinVRIi;
+glyphname = "vRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinRakar;
+name = "rasign-sinh";
 transform = "{1, 0, 0, 1, 583, 0}";
 },
 {
 alignment = -1;
-name = sinVIi;
+name = "vIi-sinh";
 transform = "{1, 0, 0, 1, 3, 0}";
 }
 );
@@ -33828,14 +33828,14 @@ width = 559;
 );
 },
 {
-glyphname = sinShRIi;
+glyphname = "shRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinShIi;
+name = "shIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33882,14 +33882,14 @@ width = 706;
 );
 },
 {
-glyphname = sinSsRIi;
+glyphname = "ssRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSsIi;
+name = "ssIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33926,14 +33926,14 @@ width = 628;
 );
 },
 {
-glyphname = sinSRIi;
+glyphname = "sRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinSIi;
+name = "sIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -33974,14 +33974,14 @@ width = 679;
 );
 },
 {
-glyphname = sinHRIi;
+glyphname = "hRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinHIi;
+name = "hIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34028,14 +34028,14 @@ width = 706;
 );
 },
 {
-glyphname = sinFRIi;
+glyphname = "fRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinFIi;
+name = "fIi-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34072,19 +34072,19 @@ width = 634;
 );
 },
 {
-glyphname = sinNDRIi;
+glyphname = "nDRIi-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinMatraIi;
+name = "iisign-sinh";
 transform = "{1, 0, 0, 1, 899, 7}";
 },
 {
 alignment = -1;
-name = sinNDRa;
+name = "nDRa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34093,19 +34093,19 @@ width = 961;
 );
 },
 {
-glyphname = sinKa.reph;
+glyphname = "ka_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 174, -16}";
 },
 {
 alignment = -1;
-name = sinKa;
+name = "ka-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34114,14 +34114,14 @@ width = 768;
 );
 },
 {
-glyphname = sinKha.reph;
+glyphname = "kha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 76, 0}";
 }
 );
@@ -34204,19 +34204,19 @@ width = 594;
 );
 },
 {
-glyphname = sinGa.reph;
+glyphname = "ga_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 152, -13}";
 },
 {
 alignment = -1;
-name = sinGa;
+name = "ga-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34225,19 +34225,19 @@ width = 706;
 );
 },
 {
-glyphname = sinGha.reph;
+glyphname = "gha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 138, -13}";
 },
 {
 alignment = -1;
-name = sinGha;
+name = "gha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34246,14 +34246,14 @@ width = 679;
 );
 },
 {
-glyphname = sinCa.reph;
+glyphname = "ca_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 73, 0}";
 }
 );
@@ -34339,14 +34339,14 @@ width = 593;
 );
 },
 {
-glyphname = sinJa.reph;
+glyphname = "ja_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJa;
+name = "ja-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34392,14 +34392,14 @@ width = 629;
 );
 },
 {
-glyphname = sinJha.reph;
+glyphname = "jha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJha;
+name = "jha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34445,18 +34445,18 @@ width = 1110;
 );
 },
 {
-glyphname = sinNya.reph;
+glyphname = "nya_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNya;
+name = "nya-sinh";
 },
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 600, 0}";
 }
 );
@@ -34466,18 +34466,18 @@ width = 1122;
 );
 },
 {
-glyphname = sinJnya.reph;
+glyphname = "jnya_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinJnya;
+name = "jnya-sinh";
 },
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 500, 0}";
 }
 );
@@ -34487,14 +34487,14 @@ width = 1065;
 );
 },
 {
-glyphname = sinTta.reph;
+glyphname = "tta_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 42, 0}";
 }
 );
@@ -34561,14 +34561,14 @@ width = 552;
 );
 },
 {
-glyphname = sinDda.reph;
+glyphname = "dda_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 107, 0}";
 }
 );
@@ -34672,14 +34672,14 @@ width = 626;
 );
 },
 {
-glyphname = sinNna.reph;
+glyphname = "nna_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinNna;
+name = "nna-sinh";
 transform = "{1, 0, 0, 1, 22, 0}";
 }
 );
@@ -34727,19 +34727,19 @@ width = 996;
 );
 },
 {
-glyphname = sinTa.reph;
+glyphname = "ta_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 197, -16}";
 },
 {
 alignment = -1;
-name = sinTa;
+name = "ta-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34748,14 +34748,14 @@ width = 762;
 );
 },
 {
-glyphname = sinTha.reph;
+glyphname = "tha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTha;
+name = "tha-sinh";
 transform = "{1, 0, 0, 1, 77, 0}";
 }
 );
@@ -34802,19 +34802,19 @@ width = 624;
 );
 },
 {
-glyphname = sinDa.reph;
+glyphname = "da_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 48, 3}";
 },
 {
 alignment = -1;
-name = sinDa;
+name = "da-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34823,14 +34823,14 @@ width = 536;
 );
 },
 {
-glyphname = sinDha.reph;
+glyphname = "dha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 63, 0}";
 }
 );
@@ -34916,19 +34916,19 @@ width = 583;
 );
 },
 {
-glyphname = sinNa.reph;
+glyphname = "na_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 167, -16}";
 },
 {
 alignment = -1;
-name = sinNa;
+name = "na-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34937,19 +34937,19 @@ width = 734;
 );
 },
 {
-glyphname = sinPa.reph;
+glyphname = "pa_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 96, -13}";
 },
 {
 alignment = -1;
-name = sinPa;
+name = "pa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -34958,14 +34958,14 @@ width = 622;
 );
 },
 {
-glyphname = sinPha.reph;
+glyphname = "pha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinPha;
+name = "pha-sinh";
 transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
@@ -35012,14 +35012,14 @@ width = 624;
 );
 },
 {
-glyphname = sinBa.reph;
+glyphname = "ba_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 65, 0}";
 }
 );
@@ -35102,19 +35102,19 @@ width = 599;
 );
 },
 {
-glyphname = sinBha.reph;
+glyphname = "bha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 189, -13}";
 },
 {
 alignment = -1;
-name = sinBha;
+name = "bha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35123,14 +35123,14 @@ width = 745;
 );
 },
 {
-glyphname = sinMa.reph;
+glyphname = "ma_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 47, 0}";
 }
 );
@@ -35219,19 +35219,19 @@ width = 576;
 );
 },
 {
-glyphname = sinYa.reph;
+glyphname = "ya_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 115, -13}";
 },
 {
 alignment = -1;
-name = sinYa;
+name = "ya-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35240,14 +35240,14 @@ width = 635;
 );
 },
 {
-glyphname = sinVa.reph;
+glyphname = "va_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph.alt;
+name = "repha-sinh.alt";
 transform = "{1, 0, 0, 1, 42, 0}";
 }
 );
@@ -35329,19 +35329,19 @@ width = 554;
 );
 },
 {
-glyphname = sinSha.reph;
+glyphname = "sha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 150, -13}";
 },
 {
 alignment = -1;
-name = sinSha;
+name = "sha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35350,19 +35350,19 @@ width = 706;
 );
 },
 {
-glyphname = sinSsa.reph;
+glyphname = "ssa_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 99, -13}";
 },
 {
 alignment = -1;
-name = sinSsa;
+name = "ssa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35371,19 +35371,19 @@ width = 628;
 );
 },
 {
-glyphname = sinSa.reph;
+glyphname = "sa_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 152, -13}";
 },
 {
 alignment = -1;
-name = sinSa;
+name = "sa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35392,19 +35392,19 @@ width = 679;
 );
 },
 {
-glyphname = sinHa.reph;
+glyphname = "ha_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 150, -13}";
 },
 {
 alignment = -1;
-name = sinHa;
+name = "ha-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35413,19 +35413,19 @@ width = 706;
 );
 },
 {
-glyphname = sinFa.reph;
+glyphname = "fa_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 111, -13}";
 },
 {
 alignment = -1;
-name = sinFa;
+name = "fa-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35434,14 +35434,14 @@ width = 634;
 );
 },
 {
-glyphname = sinYansaya.MatraI;
+glyphname = "yasign_isign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35475,14 +35475,14 @@ width = 498;
 );
 },
 {
-glyphname = sinYansaya.MatraIi;
+glyphname = "yasign_iisign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35530,19 +35530,19 @@ width = 502;
 );
 },
 {
-glyphname = sinYansaya.reph;
+glyphname = "yasign_repha-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 3, -16}";
 },
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 transform = "{1, 0, 0, 1, 2, 0}";
 }
 );
@@ -35552,7 +35552,7 @@ width = 504;
 );
 },
 {
-glyphname = sinYansaya;
+glyphname = "yasign-sinh";
 lastChange = "2021-09-08 06:37:42 +0000";
 layers = (
 {
@@ -35629,24 +35629,24 @@ width = 502;
 );
 },
 {
-glyphname = sinYansaya_Reph_MatraAa;
+glyphname = "yasign_repha_aasign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 3, -16}";
 },
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 transform = "{1, 0, 0, 1, 2, 0}";
 },
 {
 alignment = -1;
-name = sinMatraAa;
+name = "aasign-sinh";
 transform = "{1, 0, 0, 1, 492, 0}";
 }
 );
@@ -35656,14 +35656,14 @@ width = 776;
 );
 },
 {
-glyphname = sinYansa_MatraUu;
+glyphname = "yasign_uusign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35748,14 +35748,14 @@ width = 140;
 };
 },
 {
-glyphname = sinYansa_MatraU;
+glyphname = "yasign_usign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -35784,18 +35784,18 @@ width = 502;
 );
 },
 {
-glyphname = sinYansaya_Reph_MatraU;
+glyphname = "yasign_repha_usign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYansa_MatraU;
+name = "yasign_usign-sinh";
 },
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 18, -15}";
 }
 );
@@ -35805,18 +35805,18 @@ width = 502;
 );
 },
 {
-glyphname = sinYansaya_Reph_MatraUu;
+glyphname = "yasign_repha_uusign-sinh";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinYansa_MatraUu;
+name = "yasign_uusign-sinh";
 },
 {
 alignment = -1;
-name = sinReph;
+name = "repha-sinh";
 transform = "{1, 0, 0, 1, 18, -16}";
 }
 );
@@ -35826,19 +35826,19 @@ width = 502;
 );
 },
 {
-glyphname = sinYansaya.virama;
+glyphname = "yasign-sinh.alt";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinVirama;
+name = "virama-sinh";
 transform = "{1, 0, 0, 1, 233, 0}";
 },
 {
 alignment = -1;
-name = sinYansaya;
+name = "yasign-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -42195,14 +42195,14 @@ unicode = 03C0;
 },
 {
 export = 0;
-glyphname = "oneArchaic-sinhala";
+glyphname = "archaicone-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinOnelith;
+name = "lithone-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -42224,7 +42224,7 @@ unicode = 111E1;
 },
 {
 export = 0;
-glyphname = "twoArchaic-sinhala";
+glyphname = "archaictwo-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -42315,14 +42315,14 @@ unicode = 111E2;
 },
 {
 export = 0;
-glyphname = "threeArchaic-sinhala";
+glyphname = "archaicthree-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinOnelith;
+name = "lithone-sinh";
 transform = "{1, 0, 0, 1, -2, 0}";
 }
 );
@@ -42369,7 +42369,7 @@ unicode = 111E3;
 },
 {
 export = 0;
-glyphname = "fourArchaic-sinhala";
+glyphname = "archaicfour-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -42468,14 +42468,14 @@ unicode = 111E4;
 },
 {
 export = 0;
-glyphname = "fiveArchaic-sinhala";
+glyphname = "archaicfive-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinOnelith;
+name = "lithone-sinh";
 transform = "{1, 0, 0, 1, -2, 0}";
 }
 );
@@ -42539,7 +42539,7 @@ unicode = 111E5;
 },
 {
 export = 0;
-glyphname = "sixArchaic-sinhala";
+glyphname = "archaicsix-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -42638,7 +42638,7 @@ unicode = 111E6;
 },
 {
 export = 0;
-glyphname = "sevenArchaic-sinhala";
+glyphname = "archaicseven-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -42717,7 +42717,7 @@ unicode = 111E7;
 },
 {
 export = 0;
-glyphname = "eightArchaic-sinhala";
+glyphname = "archaiceight-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -42818,7 +42818,7 @@ unicode = 111E8;
 },
 {
 export = 0;
-glyphname = "nineArchaic-sinhala";
+glyphname = "archaicnine-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -42923,7 +42923,7 @@ unicode = 111E9;
 },
 {
 export = 0;
-glyphname = "tenArchaic-sinhala";
+glyphname = "archaicten-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43066,7 +43066,7 @@ unicode = 111EA;
 },
 {
 export = 0;
-glyphname = "twentyArchaic-sinhala";
+glyphname = "archaictwenty-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43226,7 +43226,7 @@ unicode = 111EB;
 },
 {
 export = 0;
-glyphname = "thirtyArchaic-sinhala";
+glyphname = "archaicthirty-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43348,7 +43348,7 @@ unicode = 111EC;
 },
 {
 export = 0;
-glyphname = "fortyArchaic-sinhala";
+glyphname = "archaicforty-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43521,7 +43521,7 @@ unicode = 111ED;
 },
 {
 export = 0;
-glyphname = "fiftyArchaic-sinhala";
+glyphname = "archaicfifty-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43675,7 +43675,7 @@ unicode = 111EE;
 },
 {
 export = 0;
-glyphname = "sixtyArchaic-sinhala";
+glyphname = "archaicsixty-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43785,7 +43785,7 @@ unicode = 111EF;
 },
 {
 export = 0;
-glyphname = "seventyArchaic-sinhala";
+glyphname = "archaicseventy-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -43993,7 +43993,7 @@ unicode = 111F0;
 },
 {
 export = 0;
-glyphname = "eightyArchaic-sinhala";
+glyphname = "archaiceighty-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -44134,7 +44134,7 @@ unicode = 111F1;
 },
 {
 export = 0;
-glyphname = "ninetyArchaic-sinhala";
+glyphname = "archaicninety-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -44329,7 +44329,7 @@ unicode = 111F2;
 },
 {
 export = 0;
-glyphname = "onehundredArchaic-sinhala";
+glyphname = "archaiconehundred-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -44467,7 +44467,7 @@ unicode = 111F3;
 },
 {
 export = 0;
-glyphname = "onethousandArchaic-sinhala";
+glyphname = "archaiconethousand-sinh";
 lastChange = "2026-03-07 16:19:40 +0000";
 layers = (
 {
@@ -44627,7 +44627,7 @@ unicode = 111F4;
 },
 {
 export = 0;
-glyphname = sinOnelith;
+glyphname = "lithone-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
@@ -44706,14 +44706,14 @@ unicode = 0DE7;
 },
 {
 export = 0;
-glyphname = sinTwolith;
+glyphname = "lithtwo-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinOnelith;
+name = "lithone-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -44761,14 +44761,14 @@ unicode = 0DE8;
 },
 {
 export = 0;
-glyphname = sinThreelith;
+glyphname = "liththree-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTwolith;
+name = "lithtwo-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -44824,7 +44824,7 @@ unicode = 0DE9;
 },
 {
 export = 0;
-glyphname = sinFourlith;
+glyphname = "lithfour-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
@@ -44948,7 +44948,7 @@ unicode = 0DEA;
 },
 {
 export = 0;
-glyphname = sinFivelith;
+glyphname = "lithfive-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
@@ -45022,7 +45022,7 @@ unicode = 0DEB;
 },
 {
 export = 0;
-glyphname = sinSixlith;
+glyphname = "lithsix-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
@@ -45113,7 +45113,7 @@ unicode = 0DEC;
 },
 {
 export = 0;
-glyphname = sinSevenlith;
+glyphname = "lithseven-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
@@ -45174,7 +45174,7 @@ unicode = 0DED;
 },
 {
 export = 0;
-glyphname = sinEightlith;
+glyphname = "litheight-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
@@ -45240,14 +45240,14 @@ unicode = 0DEE;
 },
 {
 export = 0;
-glyphname = sinNinelith;
+glyphname = "lithnine-sinh";
 lastChange = "2026-03-07 16:19:30 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = sinTwolith;
+name = "lithtwo-sinh";
 }
 );
 layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
@@ -46508,7 +46508,7 @@ width = 682;
 unicode = 000D;
 },
 {
-glyphname = sinkundaliya;
+glyphname = kunddaliya;
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -50853,7 +50853,7 @@ width = 952;
 );
 },
 {
-glyphname = sinMatraU.alt;
+glyphname = "usign-sinh.alt";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -50890,7 +50890,7 @@ width = 245;
 );
 },
 {
-glyphname = sinMatraUu.alt;
+glyphname = "uusign-sinh.alt";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -50952,7 +50952,7 @@ width = 265;
 );
 },
 {
-glyphname = sinReph.alt;
+glyphname = "repha-sinh.alt";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
