@@ -788,7 +788,7 @@ value = MNIK;
 );
 date = "2021-06-28 04:13:58 +0000";
 designer = "Kosala Senevirathne, Siva Puranthara, Lasantha Premarathna, Tharique Azeez";
-designerURL = "http://mooniak.com";
+designerURL = "http://www.mooniak.com/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = Kolonbiya;
@@ -9520,6 +9520,8 @@ width = 862;
 }
 );
 unicode = 0DDE;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "esign-sinh";
@@ -9647,6 +9649,8 @@ width = 719;
 }
 );
 unicode = 0DDA;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "isign-sinh";
@@ -9863,6 +9867,8 @@ width = 720;
 }
 );
 unicode = 0DDC;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "oosign-sinh";
@@ -9890,6 +9896,8 @@ width = 787;
 }
 );
 unicode = 0DDD;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "vocalicrsign-sinh";
@@ -10358,7 +10366,8 @@ width = 400;
 }
 );
 unicode = 0D82;
-category = Letter;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "visargaya-sinh";
@@ -10456,6 +10465,8 @@ width = 385;
 }
 );
 unicode = 0D83;
+category = Mark;
+subCategory = Spacing;
 userData = {
 com.fontlab.hintData = {
 hhints = (
@@ -35627,6 +35638,8 @@ nodes = (
 width = 502;
 }
 );
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = "yasign_repha_aasign-sinh";
@@ -49494,7 +49507,7 @@ width = 442;
 unicode = 005E;
 },
 {
-glyphname = infinity;
+glyphname = "infinity";
 lastChange = "2021-09-08 06:00:46 +0000";
 layers = (
 {
@@ -51010,6 +51023,16 @@ nodes = (
 width = 427;
 }
 );
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "906FCD19-247B-4D81-AD63-2BEA4CF1C003";
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
