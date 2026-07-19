@@ -1,7 +1,7 @@
 # instantiateUfo: Create instance UFOs from a Glyphs or designspace file
 rule instantiateUfo
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
       $fontmake_type $in $args $stamp
   description = instantiateUfo
@@ -9,7 +9,7 @@ rule instantiateUfo
 # buildTTF: Build a TTF from a source file
 rule buildTTF
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner fontmake --output-path $out -o ttf $
       $fontmake_type $in $args $stamp
   description = buildTTF
@@ -17,21 +17,21 @@ rule buildTTF
 # autohint: Run gftools-autohint
 rule autohint
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
   description = autohint
 
 # fix: Run gftools-fix
 rule fix
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
   description = fix
 
 # compress: Compress to webfont
 rule compress
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $
       $in $stamp
   description = compress
@@ -39,7 +39,7 @@ rule compress
 # buildOTF: Build a OTF from a source file
 rule buildOTF
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner fontmake --output-path $out -o otf $
       $fontmake_type $in $args $stamp
   description = buildOTF
@@ -47,7 +47,7 @@ rule buildOTF
 # copy: Copy a file
 rule copy
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner cp $in $out $stamp
   description = copy
 
@@ -63,35 +63,35 @@ build instance_ufos/Kolonbiya-Regular.ufo.json: instantiateUfo $
 build ../fonts/webfonts/Kolonbiya-Regular.woff2: compress $
     ../fonts/ttf/Kolonbiya-Regular.ttf
   operation = compress
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsk1s_sun
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsk1s_sun: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsuk647u1
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsuk647u1: $
     buildTTF instance_ufos/Kolonbiya-Regular.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpt99idu_1
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpt99idu_1: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsc8gny_u
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsc8gny_u: $
     buildOTF instance_ufos/Kolonbiya-Regular.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp7jbzqy5d
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp7jbzqy5d: $
-    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsk1s_sun
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpakfm4ikp
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpakfm4ikp: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsuk647u1
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Kolonbiya-Regular.ttf
 build ../fonts/ttf/Kolonbiya-Regular.ttf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp7jbzqy5d
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpakfm4ikp
   operation = fix
   args = 
 # Generating ../fonts/otf/Kolonbiya-Regular.otf
 build ../fonts/otf/Kolonbiya-Regular.otf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpt99idu_1
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsc8gny_u
   operation = fix
   args = 
 default ../fonts/webfonts/Kolonbiya-Regular.woff2 $
